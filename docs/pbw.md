@@ -30,10 +30,6 @@ What you will learn:
 This eBook is included as part of [The InfoSec Rock Star Blueprint] a highly\
 recommended program that will cause you to rethink your infosec career.
 
-Download the latest copy of the Personal Branding Workbook [here]\
-(/media/Personal-Branding-Workbook-A-Guide-for-Infosec-Professionals-2018-0 6-03.pdf),\
-free of charge with no strings attached.
+Download the latest copy of the Personal Branding Workbook [here] (/media/Personal-Branding-Workbook-A-Guide-for-Infosec-Professionals-2018-0 6-03.pdf), free of charge with no strings attached.
 
-[![Personal Branding Workbook - A Guide for Infosec Professionals]\
-(/images/Personal_Branding_Workbook.jpg)]\
-(/media/Personal-Branding-Workbook-A-Guide-for-Infosec-Professionals-2018-0 6-03.pdf)
+[![Personal Branding Workbook - A Guide for Infosec Professionals] (/images/Personal_Branding_Workbook.jpg)] (/media/Personal-Branding-Workbook-A-Guide-for-Infosec-Professionals-2018-0 6-03.pdf)
