@@ -10,36 +10,31 @@ from knowing that you've had a hand in creating something of intrinsic
 excellence that makes a contribution.  Indeed, you might even gain that deepest
 of all satisfactions: knowing that your short time on this earth has been well
 spent, and that it mattered."*
-
 --Jim Collins, Good to Great
 
 *"You can't let praise or criticism get to you. It's a weakness to get
 caught up in either one."*
-
 --John Wooden
 
 *"Control your own destiny or someone else will."*
-
 --Jack Welch
 
 *"Change before you have to."*
-
 --Jack Welch
 
 *"An organization's ability to learn, and translate that learning into
 action rapidly, is the ultimate competitive advantage."*
-
 --Jack Welch
 
 *"Any fool can criticize, condemn and complain, and most fools do."*
 --Benjamin Franklin
 
 *"Diligence is the mother of good luck."*
- --Benjamin Franklin
+--Benjamin Franklin
 
 *"Either write something worth reading or do something worth
 writing."*
- --Benjamin Franklin
+--Benjamin Franklin
 
 *"He who never makes mistakes never did anything that's worthy"*
 --Fortune Cookie
@@ -50,17 +45,17 @@ writing."*
 *"People are buying only one thing from you: the way the engagement (hiring
 you, working with you, dating you, using your product or service, learning from
 you) makes them feel."*
- --Seth Godin
+--Seth Godin
 
 *"The very thing you fear could be the best thing to ever happen to
 you"*
- --Michael Dell , Direct from Dell
+--Michael Dell , Direct from Dell
 
 *"The womb of perseverance gives birth to hope and the passion to act"*
 *"Don't allow your talent to take you where your character can't keep you"*
 *"Every organization is the product of the way its members think"*
 *"Great deeds are usually wrought at great risks."*
- --Herodotus
+--Herodotus
 
 *"A journey of a thousand miles begins with a single step.*"
 
