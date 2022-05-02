@@ -48,7 +48,7 @@ beats hands-on experience, and the goal of this talk is to encourage you to use
 the cloud as your personal lab for sharpening your offensive and defensive
 skills.
 
-[A Purple-Team Approach to Exploring AWS Security Services & Capabilities - SLIDES (9/8/2020)](/media/A-Purple-Team-Approach-to-Exploring-AWS-Security-Services-Capabilities.pdf")
+[A Purple-Team Approach to Exploring AWS Security Services & Capabilities - SLIDES (9/8/2020)](/media/A-Purple-Team-Approach-to-Exploring-AWS-Security-Services-Capabilities.pdf)
 
 [SANS Webcast Video (YouTube)](https://youtu.be/-3bISRBMRCE)
 
