@@ -1,4 +1,3 @@
-
 # Quotations
 
 ## The following quotations have been selected because they inspire me and reflect my values and leadership style
@@ -63,44 +62,43 @@ you"*
 
 *"Nothing great in the world has ever been accomplished without
 passion."*
- --G.W.F. Hegel
+--G.W.F. Hegel
 
 *"Obstacles are those frightful things you see when you take your eyes off
 your goal."*
- --Henry Ford
+--Henry Ford
 
 *"You can't build a reputation on what you're going to do."*
 --Henry Ford
 
 *"The only way to predict the future is to invent it."*
- --Jim
-Walker, CEO Priceline.com
+--Jim Walker, CEO Priceline.com
 
 *"How do you achieve excellence?...Stop doing non-excellent stuff!"*
 --Tom Peters
 
 *"We cannot solve the problems by thinking at the level at which we've
 created them."*
- --Einstein
+--Einstein
 
 *"The secret to life is to have a task... Something you bring everything
 to... And the most important thing is - It must be something you cannot
 possibly do."*
- --Henry Moore
+--Henry Moore
 
 *"We get distracted by what is outside our control...[Success] begins by
 trying to make each day count ...If you sincerely try to make each day a
 masterpiece, angels can do no better."*
- --John Wooden
+--John Wooden
 
 *"You are your Rolodex"*
- --Tom Peters
+--Tom Peters
 
 *"I am my clients. I am defined by who I do business with."*
 --Tom Peters
 
 *"Knowledge isn't power until it's applied."*
- --Dale Carnegie
+--Dale Carnegie
 
 *"All art is autobiographical. You can only create what you are."*
 --Dale Carnegie
@@ -108,7 +106,7 @@ masterpiece, angels can do no better."*
 *"It does not take great intelligence to capitalize on success. However, it
 takes great ingenuity to transform failure into success. Profit from your
 losses."*
- --William Belitho (paraphrased)
+--William Belitho (paraphrased)
 
 Integrity
 Strict adherence to a moral code, steadfast. The quality of being
@@ -125,7 +123,7 @@ Free from hypocrisy or dishonesty; sincere, actual, real, authentic
 
 *"Vulgar people take huge delight in the faults and follies of great
 men."*
- --Schopenhauer
+--Schopenhauer
 
 Effective Managers
 *Manage themselves and the people the work with so
@@ -135,32 +133,32 @@ that both the organization and the people profit from their presence*
 
 *"Always do right. That will gratify some people and astonish the
 rest"*
- --Mark Twain
+--Mark Twain
 
 *"If you don't know where you're going - You could wind up somewhere
 else."*
- --Yogi Berra
+--Yogi Berra
 
 *"Those who fail to plan, plan to fail."*
- --George Hewell
+--George Hewell
 
 *"Always bear in mind that your own resolution to success is more important
 than any other one thing."*
- --Abraham Lincoln
+--Abraham Lincoln
 
 *"Act as though it is impossible to fail."*
- --Dorothea Brande
+--Dorothea Brande
 
 *"You cannot have something you don't currently have without doing something
 you are not currently doing."*
 
 *"Put everything you have into everything you do and excellence will define
 you."*
- --Mary K
+--Mary K
 
 *"Be willing to do the little things because it is the little things done
 daily that lead to big accomplishments."*
- --Mary K
+--Mary K
 
 *"A problem is nothing but an opportunity in disguise."*
 *"Success has many fathers while defeat is an orphan child"*
@@ -170,10 +168,10 @@ daily that lead to big accomplishments."*
 
 *"Persistence is nothing more than Concentrated Effort mixed with
 Determination and Faith."*
- --Napoleon Hill , Selling Yourself
+--Napoleon Hill , Selling Yourself
 
 *"Success is never final"*
- --Winston Churchill
+--Winston Churchill
 
 *"The devil is in the details, but success is in the systems."*
 --JW Marriott Jr. , The Spirit to serve - Marriot's Way
@@ -197,10 +195,10 @@ frankly and try another. But above all, try something."*
 
 *"It is not the position that makes the leader; it's the leader that makes
 the position."*
- --Stanley Huffty
+--Stanley Huffty
 
 *"Integrity is the value we place on ourselves."*
- --Stephen Covey
+--Stephen Covey
 
 *"When I am working on a problem, I never think about beauty but when I have
 finished, if the solution is not beautiful, I know it is wrong."*
