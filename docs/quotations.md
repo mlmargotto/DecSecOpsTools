@@ -1,3 +1,7 @@
+---
+title: Quotations
+---
+
 ### The following quotations have been selected because they inspire me and reflect my values and leadership style
 
 *"In the end, it is impossible to have a great life unless it is a
