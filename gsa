@@ -1,0 +1,61 @@
+#!/bin/bash
+#
+# Perform various checks to ensure markdown is correct and complete
+# If good, then run `git status` and `git add`
+#
+export FLAG=0
+IFS2=$IFS; IFS=$(echo -en "\n\b");
+for LINE in $(grep -E '!\[.*\]' docs/_posts/*); do
+	#echo "==> "$LINE     # DEBUG
+	IMAGE_URL=$(echo $LINE | cut -d"(" -f2 | tr ")" " ")
+	FILE=$(echo $LINE | cut -d":" -f1)
+	#echo $IMAGE_URL      # DEBUG
+	WP_URL=$(echo $IMAGE_URL | grep -E -v '^/images/.*.png|^/images/.*.jpg' | wc -c)
+	if [ $WP_URL != 0 ];
+		then
+		echo "****Invalid Image URL Detected"
+		echo "FILE is "$FILE
+		echo "URL is: "$IMAGE_URL
+		echo
+		FLAG=1
+	fi
+done
+for LINE in $(grep 'title: template' docs/_posts/20*); do
+	FILE=$(echo $LINE | cut -d":" -f1)
+        echo "****Title value has not been set"
+        echo "FILE is "$FILE
+        echo
+        export FLAG=1
+done
+for LINE in $(grep 'excerpt: "just an excerpt"' docs/_posts/20*); do
+        FILE=$(echo $LINE | cut -d":" -f1)
+        echo "****Excerpt value has not been set"
+        echo "FILE is "$FILE
+        echo
+        export FLAG=1
+done
+for LINE in $(grep 'modified: YYYY-MM-DD' docs/_posts/20*); do
+        FILE=$(echo $LINE | cut -d":" -f1)
+        echo "****Modified Date has not been set"
+        echo "FILE is "$FILE
+        echo
+        export FLAG=1
+done
+for LINE in $(grep 'tags: \[TAG\]' docs/_posts/20*); do
+        FILE=$(echo $LINE | cut -d":" -f1)
+        echo "****Tags has not been set"
+        echo "FILE is "$FILE
+        echo
+        export FLAG=1
+done
+
+IFS=$IFS1
+
+if [ $FLAG != 0 ]; then
+	echo "*****Exiting due to linting failure"
+	exit 1
+fi
+
+git status
+git add *
+git status

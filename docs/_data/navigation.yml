@@ -1,0 +1,21 @@
+# Site navigation links
+- title: Home
+  url: /
+
+- title: Blog
+  url: /blog/
+
+- title: Presentations
+  url: /presentations/
+
+- title: Personal Branding Workbook
+  url: /pbw/
+
+- title: Quotations
+  url: /quotations/
+
+- title: Reading List
+  url: /reading-list/
+
+- title: Contact Ken
+  url: /contact-ken/

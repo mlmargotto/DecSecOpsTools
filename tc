@@ -1,0 +1,5 @@
+#!/bin/bash
+#
+# Shortcut to count each type of tag
+#
+grep '^tags' docs/_posts/20* | cut -d"[" -f2- | cut -d"]" -f1 | tr "," "\n" | sed 's/^ //' | sort | uniq -c

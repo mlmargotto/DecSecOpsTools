@@ -1,0 +1,10 @@
+#!/bin/bash
+#
+# Shortcut to Commit the change and then push it
+#
+if [ $# != 1 ]; then
+  echo "****Invalid Commit Message"
+  exit 1
+  fi
+git commit -m "$1"
+git push
