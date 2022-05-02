@@ -1,5 +1,3 @@
-# Quotations
-
 ### The following quotations have been selected because they inspire me and reflect my values and leadership style
 
 *"In the end, it is impossible to have a great life unless it is a
@@ -11,16 +9,17 @@ of all satisfactions: knowing that your short time on this earth has been well
 spent, and that it mattered."*__--Jim Collins, Good to Great
 
 *"You can't let praise or criticism get to you. It's a weakness to get
-caught up in either one."*__--John Wooden
+caught up in either one."*\
+--John Wooden
 
-*"Control your own destiny or someone else will."*
+*"Control your own destiny or someone else will."*\
 --Jack Welch
 
-*"Change before you have to."*
+*"Change before you have to."*\
 --Jack Welch
 
 *"An organization's ability to learn, and translate that learning into
-action rapidly, is the ultimate competitive advantage."*
+action rapidly, is the ultimate competitive advantage."*\
 --Jack Welch
 
 *"Any fool can criticize, condemn and complain, and most fools do."*
