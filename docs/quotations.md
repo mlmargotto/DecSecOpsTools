@@ -27,87 +27,86 @@ caught up in either one."*\
 action rapidly, is the ultimate competitive advantage."*\
 --Jack Welch
 
-*"Any fool can criticize, condemn and complain, and most fools do."*
+*"Any fool can criticize, condemn and complain, and most fools do."*\
 --Benjamin Franklin
 
-*"Diligence is the mother of good luck."*
+*"Diligence is the mother of good luck."*\
 --Benjamin Franklin
 
-*"Either write something worth reading or do something worth
-writing."*
+*"Either write something worth reading or do something worth\
+writing."*\
 --Benjamin Franklin
 
-*"He who never makes mistakes never did anything that's worthy"*
+*"He who never makes mistakes never did anything that's worthy"*\
 --Fortune Cookie
 
-*"If you don't have a competitive advantage, don't compete."*
+*"If you don't have a competitive advantage, don't compete."*\
 --Jack Welch
 
-*"People are buying only one thing from you: the way the engagement (hiring
-you, working with you, dating you, using your product or service, learning from
-you) makes them feel."*
+*"People are buying only one thing from you: the way the engagement (hiring\
+you, working with you, dating you, using your product or service, learning from\
+you) makes them feel."*\
 --Seth Godin
 
-*"The very thing you fear could be the best thing to ever happen to
+*"The very thing you fear could be the best thing to ever happen to\
 you"*
 --Michael Dell , Direct from Dell
 
-*"The womb of perseverance gives birth to hope and the passion to act"*
-*"Don't allow your talent to take you where your character can't keep you"*
-*"Every organization is the product of the way its members think"*
-*"Great deeds are usually wrought at great risks."*
+*"The womb of perseverance gives birth to hope and the passion to act"*\
+*"Don't allow your talent to take you where your character can't keep you"*\
+*"Every organization is the product of the way its members think"*\
+*"Great deeds are usually wrought at great risks."*\
 --Herodotus
 
-*"A journey of a thousand miles begins with a single step.*"
-
+*"A journey of a thousand miles begins with a single step.*"\
 --Confucius
 
-*"Nothing great in the world has ever been accomplished without
-passion."*
+*"Nothing great in the world has ever been accomplished without\
+passion."*\
 --G.W.F. Hegel
 
-*"Obstacles are those frightful things you see when you take your eyes off
-your goal."*
+*"Obstacles are those frightful things you see when you take your eyes off\
+your goal."*\
 --Henry Ford
 
-*"You can't build a reputation on what you're going to do."*
+*"You can't build a reputation on what you're going to do."*\
 --Henry Ford
 
-*"The only way to predict the future is to invent it."*
+*"The only way to predict the future is to invent it."*\
 --Jim Walker, CEO Priceline.com
 
-*"How do you achieve excellence?...Stop doing non-excellent stuff!"*
+*"How do you achieve excellence?...Stop doing non-excellent stuff!"*\
 --Tom Peters
 
-*"We cannot solve the problems by thinking at the level at which we've
-created them."*
+*"We cannot solve the problems by thinking at the level at which we've\
+created them."*\
 --Einstein
 
-*"The secret to life is to have a task... Something you bring everything
-to... And the most important thing is - It must be something you cannot
-possibly do."*
+*"The secret to life is to have a task... Something you bring everything\
+to... And the most important thing is - It must be something you cannot\
+possibly do."*\
 --Henry Moore
 
-*"We get distracted by what is outside our control...[Success] begins by
-trying to make each day count ...If you sincerely try to make each day a
-masterpiece, angels can do no better."*
+*"We get distracted by what is outside our control...[Success] begins by\
+trying to make each day count ...If you sincerely try to make each day a\
+masterpiece, angels can do no better."*\
 --John Wooden
 
-*"You are your Rolodex"*
+*"You are your Rolodex"*\
 --Tom Peters
 
-*"I am my clients. I am defined by who I do business with."*
+*"I am my clients. I am defined by who I do business with."*\
 --Tom Peters
 
-*"Knowledge isn't power until it's applied."*
+*"Knowledge isn't power until it's applied."*\
 --Dale Carnegie
 
-*"All art is autobiographical. You can only create what you are."*
+*"All art is autobiographical. You can only create what you are."*\
 --Dale Carnegie
 
-*"It does not take great intelligence to capitalize on success. However, it
-takes great ingenuity to transform failure into success. Profit from your
-losses."*
+*"It does not take great intelligence to capitalize on success. However, it\
+takes great ingenuity to transform failure into success. Profit from your\
+losses."*\
 --William Belitho (paraphrased)
 
 Integrity
@@ -124,7 +123,7 @@ Genuine
 Free from hypocrisy or dishonesty; sincere, actual, real, authentic
 
 *"Vulgar people take huge delight in the faults and follies of great
-men."*
+men."*\
 --Schopenhauer
 
 Effective Managers
