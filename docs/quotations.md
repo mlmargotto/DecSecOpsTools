@@ -1,9 +1,8 @@
 
 # Quotations
 
-## The following quotations have been selected because they inspire me and
-
-## reflect my values and leadership style
+## The following quotations have been selected because they inspire me and 
+reflect my values and leadership style
 
 *"In the end, it is impossible to have a great life unless it is a
 meaningful life. And it is very difficult to have a meaningful life without
@@ -12,14 +11,14 @@ from knowing that you've had a hand in creating something of intrinsic
 excellence that makes a contribution.  Indeed, you might even gain that deepest
 of all satisfactions: knowing that your short time on this earth has been well
 spent, and that it mattered."*
- --Jim Collins, Good to Great
+--Jim Collins, Good to Great
 
 *"You can't let praise or criticism get to you. It's a weakness to get
 caught up in either one."*
- --John Wooden
+--John Wooden
 
 *"Control your own destiny or someone else will."*
- --Jack Welch
+--Jack Welch
 
 *"Change before you have to."*
  --Jack Welch
