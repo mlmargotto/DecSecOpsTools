@@ -2,6 +2,8 @@
 title: Articles & Presentations
 ---
 
+002
+
 Here is a collection of Kenneth G. Hartman's articles and presentations of a
 variety of topics including information security, privacy, and leadership:
 
