@@ -32,6 +32,6 @@ recommended program that will cause you to rethink your infosec career.
 
 Download the latest copy of the Personal Branding Workbook [here](/media/Personal-Branding-Workbook-A-Guide-for-Infosec-Professionals-2018-0 6-03.pdf), free of charge with no strings attached.
 
-0002
+0003
 
-[![Personal Branding Workbook - A Guide for Infosec Professionals](//images/Personal_Branding_Workbook.jpg){:height="396px" width="512px"}](/media/Personal-Branding-Workbook-A-Guide-for-Infosec-Professionals-2018-0 6-03.pdf)
+[![Personal Branding Workbook - A Guide for Infosec Professionals](/images/Personal_Branding_Workbook.jpg){:height="396px" width="512px"}](/media/Personal-Branding-Workbook-A-Guide-for-Infosec-Professionals-2018-0 6-03.pdf)
