@@ -59,6 +59,7 @@ other risks.  A good risk assessment program creates visibility and facilitates
 this decision-making process.
 
 ## On Threats
+
 Threats continue to evolve and modern malware have many permutations.  The most
 current school of thought, as promulgated by organizations such as SANS, is
 that it is futile to try to enumerate all variations of “evil” and that the
