@@ -11,9 +11,8 @@ category: blog
 
 Earlier this week media outlets had a field day with the news story about
 Daniel Casillo, the guy who swam up to the JFK runway, climbed 8 feet of barbed
-wire, walked across two runways and then entered Delta's terminal 3.  <a
-href="http://abcnews.go.com/US/jet-skier-breaks-jfk-airports-100-million-securit
-y/story?id=16992190#.UCq1_1ZlT1Y">(See the ABC News Story.)</a>
+wire, walked across two runways and then entered Delta's terminal
+3. [(See the ABC News Story.)](http://abcnews.go.com/US/jet-skier-breaks-jfk-airports-100-million-security/story?id=16992190#.UCq1_1ZlT1Y)
 
 Apparently this all went undetected until a Delta employee noticed the guy in
 the terminal, all dripping wet wearing his bright yellow life jacket.  Yikes!
@@ -32,19 +31,19 @@ The general approach to Incident Handling holds that there are six phases.
 These are:
 
 * **Preparation**--Steps taken in advance to reduce the impact of an incident,
-in the event that it occurs.
+in the event that it occurs.  
 * **Identification**--Detection that an incident has occurred to trigger an
 incident response.  The goal being detection as early as possible to reduce the
-impact.
+impact.  
 * **Containment**--Steps taken reduce the spread of the security breach.  For
 instance to keep malware from spreading to other systems than haven't been
 infected or to prevent a physical intruder from breaching deeper into sensitive
 systems.
 Eradication--Cleaning up and removing the artifacts left by the attacker.
 Recovery--Returning systems to a state of normal or a new normal, as the case
-may be.
+may be.  
 * **Lessons Learned**--Determining what went wrong and improving operations to
-prevent it from happening again.
+prevent it from happening again.  
 
 These phases do not always apply in all situations and obviously a malware
 outbreak is handled differently than a physical security breach.  During the
@@ -56,8 +55,8 @@ the preceding phases.  Let's do that, because it is very instructive.
 The media has loved to state the 100 Million Dollar price tag for the airport's
 Raytheon's Perimeter Intrusion Detection System.  The lesson here is that
 technologies are not solutions.  No amount of money can solve the problem, by
-itself.  Solutions are about <em>**people**</em> and <em>**processes**</em> as
-well as <em>technology.</em>
+itself.  Solutions are about _**people**_ and _**processes**_ as
+well as _technology._
 
 Think about the complexity of a system that costs $100MM.  Think about the
 complexity of a system that would be required to secure the perimeter of an
@@ -67,8 +66,8 @@ wonder if they ever "mask" the inputs when environmental conditions (such as
 snow or ice) interfere with the proper functioning of the devices.  What is the
 policy for masking and unmasking the alarm inputs?
 
-There are two security concepts that come into play--<em>defense-in-depth</em>
-and <em>compensating controls</em>.  The concept of defense-in-depth is about
+There are two security concepts that come into play--_defense-in-depth_
+and _compensating controls_.  The concept of defense-in-depth is about
 designing multiple overlapping controls (security measures) so that if a single
 control does not function as expected, there are other controls that are still
 effective.  The idea behind compensating controls is that if a control (such as
@@ -78,8 +77,8 @@ security guard).
 When you read the story about the Jet Skier, it is easy to see that the
 concepts of defense-in-depth and compensating controls were violated.  This is
 conjecture only, but I suspect that this was not a failure in the original
-<em>technical design</em>.  I would also speculate that it is quite likely not
-even a failure in the <em>process design</em>, that is to say the Policies and
+_technical design_.  I would also speculate that it is quite likely not
+even a failure in the _process design_, that is to say the Policies and
 Procedures around masking alarm inputs.  Most likely it was a failure of
 leadership, in not enforcing those policies.
 
@@ -87,9 +86,9 @@ leadership, in not enforcing those policies.
 
 Surely, the JFK perimeter intrusion detection system must have been designed
 with early warning alarms to alert security to an intruder on the periphery.
-We have already discussed defense-in-depth.  The reason that this <em>is</em> a
-public relations fiasco is because multiple layers of security <em>must
-</em>have failed for Casillo to have reached the terminal undetected by
+We have already discussed defense-in-depth.  The reason that this _is_ a
+public relations fiasco is because multiple layers of security _must
+_have failed for Casillo to have reached the terminal undetected by
 security.  Perhaps the system did detect the guy, but "detective controls"
 require a security guard to respond with appropriate action.  The key take-away
 here is that the earlier an intrusion is detected and responded to the lower
@@ -129,7 +128,7 @@ In the ABC article posted above, the Port Authority is quoted as calling for an
 Raytheon's perimeter intrusion detection system-which exceeds federal
 requirements-could be improved."  Based on the quote, it seems as if the Port
 Authority is already assigning blame--prior to the investigation.  The
-<em>Lessons Learned</em> phase could be quite painful for the security team
+_Lessons Learned_ phase could be quite painful for the security team
 involved and I empathize with them.  But, this is how improvements are made.
 
 If they focus on just the technology and its manufacturer and not the people or
