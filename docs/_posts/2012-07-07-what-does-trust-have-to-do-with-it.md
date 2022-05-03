@@ -8,26 +8,19 @@ comments: false
 category: blog
 ---
 
-NOTE: This is cross-posted from the HIMSS Blog at <a
-href="http://blog.himss.org/2012/06/07/psst-what-does-trust-have-to-do-with-it/"
->http://blog.himss.org/2012/06/07/psst-what-does-trust-have-to-do-with-it/</a>
+NOTE: This is cross-posted from the HIMSS Blog at [http://blog.himss.org/2012/06/07/psst-what-does-trust-have-to-do-with-it/](http://blog.himss.org/2012/06/07/psst-what-does-trust-have-to-do-with-it/)
 
-<hr>
+* * *
 
-<em>Here is latest installment from the HIMSS Privacy and Security
+_Here is latest installment from the HIMSS Privacy and Security
 Committee…called **PSST!**. Keep reading to learn more about the column and
-this month’s topic – Patient Trust </em>by <a
-href="https://kennethghartman.com/">Kenneth G. Hartman, CISSP, CPHIMS, GSEC</a>
-
+this month’s topic – Patient Trust _by [Kenneth G. Hartman, CISSP, CPHIMS, GSEC](https://kennethghartman.com/)
 The HIMSS Privacy and Security Committee chose the topic of Patient Trust as
 the “PSST” for the month of June to coordinate with the release of a new
-white paper titled [Understanding the Role of Trust in the Protection of
-Privacy](/media/Understanding-the-Role-of-Trust-in-the-Protection-of-Privacy.pdf
-)</em>.  This latest addition to the <a
-href="http://www.himss.org/library/healthcare-privacy-security/toolkit?navItemNu
-mber=16480">HIMSS Privacy & Security Toolkit</a> is the result of the P&S
-Committee’s desire to increase understanding of Privacy as a separate and
-distinct concept from Security.
+white paper titled [Understanding the Role of Trust in the Protection of Privacy](/media/Understanding-the-Role-of-Trust-in-the-Protection-of-Privacy.pdf)_.
+This latest addition to the [HIMSS Privacy & Security Toolkit](http://www.himss.org/library/healthcare-privacy-security/toolkit?navItemNumber=16480)is
+the result of the P&S Committee’s desire to increase understanding of
+Privacy as a separate and distinct concept from Security.
 
 Those of us who have worked in healthcare for any length of time routinely
 handle patient information.  We are expected to be aware of all of the
@@ -56,22 +49,22 @@ Without giving away the complete gist of the paper, let’s think about what
 trust has to do with what we do:
 
 * We are all patients, not just providers, payors, or healthcare IT
-professionals
-* We are much more than our medical records
+professionals  
+* We are much more than our medical records  
 * We know that information can be taken out of context or potentially could
-just be plain wrong
-* We want control over our own lives, generally
+just be plain wrong  
+* We want control over our own lives, generally  
 * We trust those that we know well and may lack trust in those that we do not
-know
-* We know that we have to let others help us sometimes, and this takes trust
+know  
+* We know that we have to let others help us sometimes, and this takes trust  
 
 As professionals who work in the field of healthcare, we have more insight into
 how “the system” works, so we will naturally be more trusting of it.
 However, different people will have different attitudes about trust, because we
 are all different and have had different life experiences.
 
-Bruce Schneier, in his book <em>Liars & Outliers – Enabling the Trust that
-Society Needs to Survive</em>, writes the following:
+Bruce Schneier, in his book _Liars & Outliers – Enabling the Trust that
+Society Needs to Survive_, writes the following:
 
 > In some ways, trust in society works like oxygen in the atmosphere.  The more
 customers trust merchants, the easier commerce is.  The more drivers trust
