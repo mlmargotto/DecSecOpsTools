@@ -21,3 +21,16 @@ provides insight into the adequacy of the process as well as the adequacy of
 the training on the process. Process metrics can also help organizations
 anticipate adverse trends and make adjustments, thereby keeping their processes
 under control.
+
+* * *
+
+**A Quality Thought** was published on January 01, 2011 and last modified on January 01, 2011.
+
+#### More Posts:
+
+[InfosecConsultCon](https://kennethghartman.com/blog/InfosecConsultCon/ "InfosecConsultCon")  
+[Interactively Exploring NTFS Timestamps](https://kennethghartman.com/blog/interactively-exploring-ntfs-timestamps/ "Interactively Exploring NTFS Timestamps")  
+[Create an EC2 that Runs Chrome for Sandboxed Web Surfing](https://kennethghartman.com/blog/create-an-ec2-that-runs-chrome-for-sandboxed-websurfing/ "Create an EC2 that Runs Chrome for Sandboxed Web Surfing")  
+[**View all posts**](https://kennethghartman.com/blog/)
+
+* * *

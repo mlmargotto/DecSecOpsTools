@@ -9,7 +9,7 @@ comments: false
 category: blog
 ---
 
-<em>**Continuous Improvement**</em>. Sounds good, but how do you get your team
+_**Continuous Improvement**_. Sounds good, but how do you get your team
 thinking in terms of continuous improvement? One methodology that I use
 frequently is called the “Plan-Do-Check-Act” Cycle. It takes discipline to
 follow this sequence and to do each step well, but the payoff is worth it!
@@ -20,7 +20,7 @@ you will check the solution. Make sure to answer these questions:
 * What are the objectives?
 * What measurements should we use to determine that we achieved our objectives?
 * What tasks are required?
-* What should we <em>not</em> do as part of this initiative?
+* What should we _not_ do as part of this initiative?
 * Do we need more information?
 
 **DO**—Work the plan. Start with a pilot project or test case. Communicate
@@ -45,3 +45,16 @@ continuously, with the learning and experience gained from the previous
 iteration incorporated into the planning phase of the current sequence. For
 additional information, check out
 [http://en.wikipedia.org/wiki/PDCA](http://en.wikipedia.org/wiki/PDCA)
+
+* * *
+
+**Plan - Do - Check - Act** was published on February 15, 2011 and last modified on February 15, 2011.
+
+#### More Posts:
+
+[InfosecConsultCon](https://kennethghartman.com/blog/InfosecConsultCon/ "InfosecConsultCon")  
+[Interactively Exploring NTFS Timestamps](https://kennethghartman.com/blog/interactively-exploring-ntfs-timestamps/ "Interactively Exploring NTFS Timestamps")  
+[Create an EC2 that Runs Chrome for Sandboxed Web Surfing](https://kennethghartman.com/blog/create-an-ec2-that-runs-chrome-for-sandboxed-websurfing/ "Create an EC2 that Runs Chrome for Sandboxed Web Surfing")  
+[**View all posts**](https://kennethghartman.com/blog/)
+
+* * *

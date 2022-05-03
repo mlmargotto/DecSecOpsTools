@@ -94,3 +94,16 @@ production.
 In summary, developers should definitely do testing before the hand off to QA.
 QA should verify that development tested adequately. Preventing QA from making
 fixes increases transparency and achieves separation of duties.
+
+* * *
+
+**Separation of Duties in Scrum Software Development** was published on October 05, 2010 and last modified on October 05, 2010.
+
+#### More Posts:
+
+[InfosecConsultCon](https://kennethghartman.com/blog/InfosecConsultCon/ "InfosecConsultCon")  
+[Interactively Exploring NTFS Timestamps](https://kennethghartman.com/blog/interactively-exploring-ntfs-timestamps/ "Interactively Exploring NTFS Timestamps")  
+[Create an EC2 that Runs Chrome for Sandboxed Web Surfing](https://kennethghartman.com/blog/create-an-ec2-that-runs-chrome-for-sandboxed-websurfing/ "Create an EC2 that Runs Chrome for Sandboxed Web Surfing")  
+[**View all posts**](https://kennethghartman.com/blog/)
+
+* * *

@@ -11,8 +11,8 @@ category: blog
 
 Several years ago, I saw a sign that read:
 
-> <em>"It is hard to drain the swamp when you are so busy fighting
-alligators!”</em>
+> _"It is hard to drain the swamp when you are so busy fighting
+alligators!”_
 
 This quote has resonated with many of the people that I have consulted with
 over the years. They confide that they are so busy just trying to keep up, that
@@ -41,3 +41,16 @@ Carefully consider which few activities will reduce the most problems and/or
 result in the most improvement.
 
 **Remember, if you do not drain the swamp, more alligators will hatch!**
+
+* * *
+
+**Alligator Fighting** was published on March 01, 2011 and last modified on March 01, 2011.
+
+#### More Posts:
+
+[InfosecConsultCon](https://kennethghartman.com/blog/InfosecConsultCon/ "InfosecConsultCon")  
+[Interactively Exploring NTFS Timestamps](https://kennethghartman.com/blog/interactively-exploring-ntfs-timestamps/ "Interactively Exploring NTFS Timestamps")  
+[Create an EC2 that Runs Chrome for Sandboxed Web Surfing](https://kennethghartman.com/blog/create-an-ec2-that-runs-chrome-for-sandboxed-websurfing/ "Create an EC2 that Runs Chrome for Sandboxed Web Surfing")  
+[**View all posts**](https://kennethghartman.com/blog/)
+
+* * *
