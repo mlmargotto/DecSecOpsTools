@@ -9,12 +9,12 @@ comments: false
 category: blog
 ---
 
-Yesterday I was asked a question in passing.  The question was this --<em>Are
-we more secure today?</em>  My reflexive answer was “yes, we get more secure
+Yesterday I was asked a question in passing.  The question was this --_Are
+we more secure today?_  My reflexive answer was “yes, we get more secure
 every day.”  After all, how else could I justify my employment?  This
 question challenged me on many levels.  The first thoughts were how can you
-qualitatively measure security?  Do we <em>feel</em> more secure today?  Why do
-I <em>feel</em> more secure today?  Is it based on what my security experts
+qualitatively measure security?  Do we _feel_ more secure today?  Why do
+I _feel_ more secure today?  Is it based on what my security experts
 told me?  And what are they basing their opinion on?
 
 Next my thoughts turned to the lessons of 9/11 and the asymmetric nature of the
@@ -28,9 +28,7 @@ been compromised.
 "We have found their data in the middle of other investigations,'' he
 said."They are shocked and, in many cases, they've been breached for many
 months, in some cases years, which means that an adversary had full visibility
-into everything occurring on that network, potentially.''  <a
-href="http://online.wsj.com/article/SB10001424052702304177104577307773326180032.
-html">(See the WSJ article.)</a>
+into everything occurring on that network, potentially.'' [(See the WSJ article.)](http://online.wsj.com/article/SB10001424052702304177104577307773326180032.html)
 
 What does being “more secure” mean?  Security is about managing risks, not
 eliminating them.  After all, every transaction has inherent risk because trust
