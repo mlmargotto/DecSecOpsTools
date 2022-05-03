@@ -9,7 +9,7 @@ comments: false
 category: blog
 ---
 
-<em>For today's post, I am delighted to have an entry written by Jack
+_For today's post, I am delighted to have an entry written by Jack
 Emanuelson.  Jack Emanuelson is an independent contractor specializing in OPSEC
 and information assurance. He earned his BS in Business Administration from the
 American University and an MBA from George Washington University, and is a
@@ -17,7 +17,7 @@ graduate of the U.S. Army Command & General Staff College. He previously
 occupied the David G. Boak Operations Security Chair at the National
 Cryptologic School. Jack is retired from the U.S. Civil Service and is a
 Lieutenant Colonel, AUS (Ret).  Currently, Jack serves as a member of the board
-for the national OPSEC Professionals Society (OPS).</em>
+for the national OPSEC Professionals Society (OPS)._
 
 ## OPSEC
 
@@ -32,26 +32,25 @@ sensitive or critical information that, in the hands of an adversary, could
 limit success or give an adversary a decisive advantage. OPSEC follows the
 common risk management format but employs several unique steps:
 
-
-1. Identification of the asset to be protected;
-2. Analysis of the threat in terms of the opponent's intent and capabilities;
+1. Identification of the asset to be protected;  
+2. Analysis of the threat in terms of the opponent's intent and capabilities;  
 3. A search for vulnerable information that could lead the adversary to piece
-together or infer critical information through open sources and observation;
+together or infer critical information through open sources and observation;  
 4. Leadership analysis of the acceptable level of risk and, if necessary,
-approval of OPSEC measures to lower risk; and
+approval of OPSEC measures to lower risk; and  
 5. Implementation of the approved OPSEC measures and continuous monitoring of
-all risk components to detect change and respond accordingly.
+all risk components to detect change and respond accordingly.  
 
 First and foremost, OPSEC is a risk management process. It begins with
 identifying what it is that you, or your organization wants to accomplish. This
 is usually a program or activity.  Examples of this could include:
 
 * successfully take out an enemy target without suffering undo loss of life or
-equipment;
+equipment;  
 * bringing a new product to market without a competitor interfering or beating
-you to market with a similar product; or
+you to market with a similar product; or  
 * protecting your home and valuables when you are away on a two-weeks’
-vacation.
+vacation.  
 
 The next part of the OPSEC process is to determine if there is an adversary
 that would and could prevent your from accomplishing your objective or benefit
@@ -121,7 +120,7 @@ overall operational security program.
 Another aspect of how OPSEC has morphed from a five-step risk management
 process is the wide-spread believe that all sensitive information (such as FOR
 OFFICIAL USE ONLY and CONTROLLED UNCLASSIFIED INFORMATION) is an OPSEC problem
-– <em>It is a security issue</em>. “My” OPSEC only protects unclassified
+– _It is a security issue_. “My” OPSEC only protects unclassified
 information that could lead an adversary to deduce the most critical
 information.
 
@@ -134,7 +133,7 @@ obtain that information through exploitation of indicators. The formal OPSEC
 process is only used for programs and activities that are super important (to
 the program owner) and are worth the analysis effort necessary to apply the
 five-step OPSEC risk management process.  However, a basic understanding of the
-Five Step OPSEC Risk Management Process <em>is valuable</em> to all
+Five Step OPSEC Risk Management Process _is valuable_ to all
 organizations that protect sensitive information, even if it is not rigorously
 applied, because it highlights the danger of leaking information that could be
 of value to an adversary.  It also emphasizes that multiple indicators, which
@@ -142,16 +141,12 @@ may seem trivial in and of themselves, can be correlated to reveal secrets.
 
 Regards,  John (Jack) Emanuelson, OCP, CISSP, CAP, GSLC
 
-_______________________
+---
 
 Read Jack's two part article on OPSEC in the Febuary and March, 2012 editions
-of the <em>Newsletter of the Security Analysis and Risk Management
-Association</em>:
+of the _Newsletter of the Security Analysis and Risk Management
+Association_:
 
-<a
-href="http://archive.constantcontact.com/fs037/1102302026582/archive/11093851286
-23.html">Operations Security (OPSEC) at a Crossroads: Part I</a>
+[Operations Security (OPSEC) at a Crossroads: Part I](http://archive.constantcontact.com/fs037/1102302026582/archive/1109385128623.html)
 
-<a
-href="http://archive.constantcontact.com/fs037/1102302026582/archive/11096757132
-48.html">Operations Security (OPSEC) At A Crossroads: Part II</a>
+[Operations Security (OPSEC) At A Crossroads: Part II](http://archive.constantcontact.com/fs037/1102302026582/archive/1109675713248.html)
