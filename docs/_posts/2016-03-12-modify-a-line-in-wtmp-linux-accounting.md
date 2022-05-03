@@ -1,14 +1,18 @@
 ---
 layout: post
 title: Modify a line in wtmp - Linux Accounting
-excerpt: "The /var/log/wtmp file in a Linux system contains data about past user logins."
+excerpt: "The /var/log/wtmp file in a Linux system contains data about past
+user logins."
 modified: 2016-03-12
 tags: [hacking]
 comments: false
 category: blog
 ---
 
-The **/var/log/wtmp** file in a Linux system contains data about past user logins.  An attacker may want to modify this file as one of the steps they take in covering their track.  One may also want to modify utmp or btmp as well.  This same technique can be used.
+The **/var/log/wtmp** file in a Linux system contains data about past user
+logins.  An attacker may want to modify this file as one of the steps they take
+in covering their track.  One may also want to modify utmp or btmp as well.
+This same technique can be used.
 
 The wtmp log is a binary format and is owned by root:
 
@@ -34,7 +38,9 @@ wtmp begins Mon Feb  6 10:07:23 2017
 
 ```
 
-The **utmpdump** works great for this and may be on the image by default.  In this case, let's say we want to remove the entry that shows user ken logged in from the console (tty1).  Here is how to do it:
+The **utmpdump** works great for this and may be on the image by default.  In
+this case, let's say we want to remove the entry that shows user ken logged in
+from the console (tty1).  Here is how to do it:
 
 ```
 utmpdump /var/log/wtmp | grep -v "tty1" > temp.txt
@@ -58,7 +64,8 @@ wtmp begins Mon Feb  6 10:07:23 2017
 
 ```
 
-Note that the line is now missing.  Of course, the timestamp on wtmp has also been updated, but that is a different issue:
+Note that the line is now missing.  Of course, the timestamp on wtmp has also
+been updated, but that is a different issue:
 
 ```
 root@ubuntu:/home/ken# ls -als /var/log/wtmp

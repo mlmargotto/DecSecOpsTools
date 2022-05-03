@@ -8,7 +8,10 @@ comments: false
 category: blog
 ---
 
-When working on Linux it is often very helpful to review the commands that you have entered. For example, you may want to paste some of the commands into a script or may want to recreate the steps to solve the problem you were working on.
+When working on Linux it is often very helpful to review the commands that you
+have entered. For example, you may want to paste some of the commands into a
+script or may want to recreate the steps to solve the problem you were working
+on.
 
 Here is how I do it:
 
@@ -32,6 +35,10 @@ mv -f temp.txt $HOME/.bashrc
 source ~/.bashrc
 ```
 
-See also [https://www.digitalocean.com/community/tutorials/how-to-use-bash-history-commands-and-expansions-on-a-linux-vps](https://www.digitalocean.com/community/tutorials/how-to-use-bash-history-commands-and-expansions-on-a-linux-vps)
+See also
+[https://www.digitalocean.com/community/tutorials/how-to-use-bash-history-comman
+ds-and-expansions-on-a-linux-vps](https://www.digitalocean.com/community/tutoria
+ls/how-to-use-bash-history-commands-and-expansions-on-a-linux-vps)
 
-**NOTE:** if you want to display the recent history without timestamps, just use `fc -ln`
+**NOTE:** if you want to display the recent history without timestamps, just
+use `fc -ln`

@@ -8,7 +8,8 @@ comments: false
 category: blog
 ---
 
-Sharing this slide because it illustrates the business value of integrating application security testing at the front of the Systems Development Life Cycle.
+Sharing this slide because it illustrates the business value of integrating
+application security testing at the front of the Systems Development Life Cycle.
 
 ![Application Security Testing Matters](/images/AppSecTestingMatters.png)
 

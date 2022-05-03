@@ -9,23 +9,23 @@ comments: false
 category: blog
 ---
 
-**<em>The following excerpt is a thread from a discussion on Linkedin in the
+**_The following excerpt is a thread from a discussion on Linkedin in the
 CISSP group.  I repost it because I think that it is an important consideration
 for organizations incorporating agile techniques into their Software
-Development Life Cycle (SDLC). </em> **
+Development Life Cycle (SDLC). _ **
 
 **Date:** October 5, 2010
 
 ## Question:
 
-<em>I am looking for some input on “separation of duties” and “access
-control” concerns in regard with the SCRUM software development model. </em>
+_I am looking for some input on “separation of duties” and “access
+control” concerns in regard with the SCRUM software development model. _
 
-<em>My R&D team is running a pilot on SCRUM. The developers on the pilot team
+_My R&D team is running a pilot on SCRUM. The developers on the pilot team
 test each other code (apparently both unit and system testing), have access to
-the QA environment, etc. They believe it is a standard practice for SCRUM. </em>
+the QA environment, etc. They believe it is a standard practice for SCRUM. _
 
-<em>Thoughts, comments, practical recommendations?</em>
+_Thoughts, comments, practical recommendations?_
 
 ## Ken Hartman:
 
@@ -37,20 +37,20 @@ packaged better. We (Visonex) roll up several sprints into a quarterly release.
 Only after you have the code deployment nailed on the QA server is it ready to
 be deployed into production (Ideally by a third person/team).
 
-If you are doing SCRUM, a 'must read' book is <em>Agile Testing</em> by Crispin
+If you are doing SCRUM, a 'must read' book is _Agile Testing_ by Crispin
 & Gregory. Among other things, the book introduces "Agile Testing Quadrants"
 and talks about the various tests and which team member should be doing them.
 
 ## Question:
 
-<em>Code promotion from Dev to QA - I agree, code promotion needs to be
+_Code promotion from Dev to QA - I agree, code promotion needs to be
 controlled. We can try to put some process in place to restrict code promotion
 to QA only. May not be easy though if developers are also to QA (testing often
-require write access), but should be possible.</em>
+require write access), but should be possible._
 
-<em>What are your thoughts on developers to perform integration testing? Any
+_What are your thoughts on developers to perform integration testing? Any
 concern that it violates the segregation of duties principle? The same person,
-who developed new code, will be testing the code?</em>
+who developed new code, will be testing the code?_
 
 ## Ken Hartman:
 

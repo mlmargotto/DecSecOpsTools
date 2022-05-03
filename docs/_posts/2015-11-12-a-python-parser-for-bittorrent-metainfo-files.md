@@ -1,30 +1,86 @@
 ---
 layout: post
 title: A Python Parser for BitTorrent Metainfo Files
-excerpt: "To help understand the data contained in a metainfo file, I created a python script called “bittorrent-parse.py.”"
+excerpt: "To help understand the data contained in a metainfo file, I created a
+python script called “bittorrent-parse.py.”"
 modified: 2019-01-12
 tags: [BitTorrent]
 comments: false
 category: blog
 ---
 
-Lately, I have been doing some analysis of BitTorrent Descriptor Files, or "metainfo" files as the <a href="http://www.bittorrent.org/beps/bep_0003.html">BitTorrent Protocol Specification</a> calls them. One could simply open the *.torrent file in a text editor. If that is done, you would see something like:
+Lately, I have been doing some analysis of BitTorrent Descriptor Files, or
+"metainfo" files as the <a
+href="http://www.bittorrent.org/beps/bep_0003.html">BitTorrent Protocol
+Specification</a> calls them. One could simply open the *.torrent file in a
+text editor. If that is done, you would see something like:
 
 ```
-d8:announce44:udp://tracker.openbittorrent.com:80/announce13:announce-listll44:udp://tracker.openbittorrent.com:80/announceel38:udp://tracker.publicbt.com:80/announceel32:udp://tracker.ccc.de:80/announceee10:created by14:uTorrent/3.4.213:creation datei1420935116e8:encoding5:UTF-84:infod5:filesld6:lengthi37330e4:pathl52:7 All previous animal species speeds in one list.pdfeed6:lengthi34436e4:pathl43:2 List of mammal species running speeds.pdfeed6:lengthi30210e4:pathl40:4 List of bird species flight speeds.pdfeed6:lengthi29518e4:pathl8:info.pdfeed6:lengthi28882e4:pathl42:5 List of fish species swimming speeds.pdfeed6:lengthi28811e4:pathl31:Special human running speed.pdfeed6:lengthi26834e4:pathl33:6 List of other animal speeds.pdfeed6:lengthi26418e4:pathl26:Extra 2 homing pigeons.pdfeed6:lengthi26149e4:pathl44:3 List of reptile species running speeds.pdfeed6:lengthi25297e4:pathl17:1 information.pdfeed6:lengthi22476e4:pathl35:Extra 1 the fastest land animal.pdfeed6:lengthi2268e4:pathl52:7 All previous animal species speeds in one list.txteed6:lengthi1195e4:pathl43:2 List of mammal species running speeds.txteed6:lengthi488e4:pathl17:1 information.txteed6:lengthi420e4:pathl42:5 List of fish species swimming speeds.txteed6:lengthi378e4:pathl40:4 List of bird species flight speeds.txteed6:lengthi365e4:pathl31:Special human running speed.txteed6:lengthi319e4:pathl26:Extra 2 homing pigeons.txteed6:lengthi293e4:pathl8:info.txteed6:lengthi276e4:pathl44:3 List of reptile species running speeds.txteed6:lengthi229e4:pathl33:6 List of other animal speeds.txteed6:lengthi117e4:pathl35:Extra 1 the fastest land animal.txteee4:name65:List of animal speeds (mammals, reptiles, birds and fish species)12:piece lengthi16384e6:pieces400:…7°ºp½mhÉ14Û]à«@N]@žF˜†?Œ—W^ö=¬4ñ5R8ÿó”œuä|&amp;nbsp;À¨„)¥¬H˜qa…0¡»ˆ«Ã9Zû³×Üï&gt;
-¨$C°&gt;ØÔ”½†î:f–o¤ñü0„Ý³q({Øi­Å'£§ÕRñ©ø·“é@{§Æh¶Ë¬ýØdŽÏØùèÄ‘cÿ¹ctj^-ŸH/“Q®àÕ§Teýœ&lt;ò%CßV"%&amp;÷—7ùXgÿ´Fó/7„€”8ß
-dHÙnP:Â°c,ð=Û™&gt;ãbÎüóÜrÆƒO¢îêÙºÐräçÓ&lt;Ô¨™^ö{y%F+ýÚ»K	–öÅŽŸ\ÑÇÈ4g¿°Á»Éˆ+”±W¡œBxþü‚oˆ“•¡å‰T msÙ„ª~b,Ò¤	ˆ.B¡„…Xœ?æð†¶WjuËif‹¿yº¹­øú¦¢³¥Ù#Q’Ãé¦‹ç'æÜÅ§þà|IM/ã*Ò0Þ%9½R:®ee
+d8:announce44:udp://tracker.openbittorrent.com:80/announce13:announce-listll44:u
+dp://tracker.openbittorrent.com:80/announceel38:udp://tracker.publicbt.com:80/an
+nounceel32:udp://tracker.ccc.de:80/announceee10:created
+by14:uTorrent/3.4.213:creation
+datei1420935116e8:encoding5:UTF-84:infod5:filesld6:lengthi37330e4:pathl52:7 All
+previous animal species speeds in one list.pdfeed6:lengthi34436e4:pathl43:2
+List of mammal species running speeds.pdfeed6:lengthi30210e4:pathl40:4 List of
+bird species flight
+speeds.pdfeed6:lengthi29518e4:pathl8:info.pdfeed6:lengthi28882e4:pathl42:5 List
+of fish species swimming speeds.pdfeed6:lengthi28811e4:pathl31:Special human
+running speed.pdfeed6:lengthi26834e4:pathl33:6 List of other animal
+speeds.pdfeed6:lengthi26418e4:pathl26:Extra 2 homing
+pigeons.pdfeed6:lengthi26149e4:pathl44:3 List of reptile species running
+speeds.pdfeed6:lengthi25297e4:pathl17:1
+information.pdfeed6:lengthi22476e4:pathl35:Extra 1 the fastest land
+animal.pdfeed6:lengthi2268e4:pathl52:7 All previous animal species speeds in
+one list.txteed6:lengthi1195e4:pathl43:2 List of mammal species running
+speeds.txteed6:lengthi488e4:pathl17:1
+information.txteed6:lengthi420e4:pathl42:5 List of fish species swimming
+speeds.txteed6:lengthi378e4:pathl40:4 List of bird species flight
+speeds.txteed6:lengthi365e4:pathl31:Special human running
+speed.txteed6:lengthi319e4:pathl26:Extra 2 homing
+pigeons.txteed6:lengthi293e4:pathl8:info.txteed6:lengthi276e4:pathl44:3 List of
+reptile species running speeds.txteed6:lengthi229e4:pathl33:6 List of other
+animal speeds.txteed6:lengthi117e4:pathl35:Extra 1 the fastest land
+animal.txteee4:name65:List of animal speeds (mammals, reptiles, birds and fish
+species)12:piece
+lengthi16384e6:pieces400:…7°ºp½mhÉ14Û]à«@N]@žF˜†?Œ—W
+^ö=¬4ñ5R8ÿó”œuä|&amp;nbsp;À¨„)¥¬H˜qa…0¡»ˆ«Ã9Zû³×�
+�ï&gt;
+¨$C°&gt;ØÔ”½†î:f–o¤ñü0„Ý³q({Øi­Å'£§ÕRñ©ø·�
+�é@{§Æh¶Ë¬ýØdŽÏØùèÄ‘cÿ¹ctj^-ŸH/“Q®àÕ§Teýœ&lt;ò%C
+ßV"%&amp;÷—7ùXgÿ´Fó/7„€”8ß
+dHÙnP:Â°c,ð=Û™&gt;ãbÎüóÜrÆƒO¢îêÙºÐräçÓ&lt;Ô¨�
+�^ö{y%F+ýÚ»K
+–öÅŽŸ\ÑÇÈ4g¿°Á»Éˆ+”±W¡œBxþü‚oˆ“•¡å‰T
+msÙ„ª~b,Ò¤
+ˆ.B¡„…Xœ?æð†¶WjuËif‹¿yº¹­øú¦¢³¥Ù#Q’Ãé¦‹
+ç'æÜÅ§þà|IM/ã*Ò0Þ%9½R:®ee
 ```
 
-The first part of the file is "almost readable." The file is "bencoded" and uses epoch dates, but one can tell the names of the files in the torrent descriptor. The end of the file contains a SHA1 hash of each of the pieces and it looks garbled because text editors cannot properly represent all possible bytes as a printable character.
+The first part of the file is "almost readable." The file is "bencoded" and
+uses epoch dates, but one can tell the names of the files in the torrent
+descriptor. The end of the file contains a SHA1 hash of each of the pieces and
+it looks garbled because text editors cannot properly represent all possible
+bytes as a printable character.
 
-Remember that per the specification, BitTorrent breaks the collection of file files referred to by the metainfo file into a number of smaller pieces of the same size so that the swarm can share the work of distributing them. Don't confuse the files referenced by the torrent descriptor file as a piece. The files are all concatenated together and then divided up into uniform sized pieces.
+Remember that per the specification, BitTorrent breaks the collection of file
+files referred to by the metainfo file into a number of smaller pieces of the
+same size so that the swarm can share the work of distributing them. Don't
+confuse the files referenced by the torrent descriptor file as a piece. The
+files are all concatenated together and then divided up into uniform sized
+pieces.
 
-A SHA1 Hash is 20 bytes long, so the end of a *.torrent file is an array of SHA1 hashes such the first 20 bytes are the SHA1 hash of piece 0, and the next 20 bytes correspond to the hash for piece 1, and so on.
+A SHA1 Hash is 20 bytes long, so the end of a *.torrent file is an array of
+SHA1 hashes such the first 20 bytes are the SHA1 hash of piece 0, and the next
+20 bytes correspond to the hash for piece 1, and so on.
 
-To help understand the data contained in a metainfo file, I created a python script called "bittorrent-parse.py." It can be found on Github, here:<a href="https://github.com/Resistor52/bittorrent-parser">https://github.com/Resistor52/bittorrent-parser</a>
+To help understand the data contained in a metainfo file, I created a python
+script called "bittorrent-parse.py." It can be found on Github, here:<a
+href="https://github.com/Resistor52/bittorrent-parser">https://github.com/Resist
+or52/bittorrent-parser</a>
 
-The **bittorrent-parse.py** program generates HTML output. Using the above example, the output would look as follows:
+The **bittorrent-parse.py** program generates HTML output. Using the above
+example, the output would look as follows:
 
 <hr>
 
@@ -34,7 +90,10 @@ The **bittorrent-parse.py** program generates HTML output. Using the above examp
 
 
 <h1>Torrent Descriptor File Details</h1>
-<em>* Denotes an optional field in the Torrent Descriptor File. As a result it may be blank. Refer to the <a href="https://wiki.theory.org/BitTorrentSpecification#Metainfo_File_Structure">BitTorrent Specification</a>.</em>
+<em>* Denotes an optional field in the Torrent Descriptor File. As a result it
+may be blank. Refer to the <a
+href="https://wiki.theory.org/BitTorrentSpecification#Metainfo_File_Structure">B
+itTorrent Specification</a>.</em>
 <h2>Meta Data</h2>
 <table style="font-family: sans-serif;" border="1">
 <tbody>
@@ -237,8 +296,13 @@ udp://tracker.ccc.de:80/announce</td>
 </tr>
 </tbody>
 </table>
-<h2>This Torrent Descriptor has the following SHA1 Hashes for each piece, respectively:</h2>
-<em>NOTE PER THE SPEC: "For the purposes of piece boundaries in the multi-file case, consider the file data as one long continuous stream, composed of the concatenation of each file in the order listed in the files list. The number of pieces and their boundaries are then determined in the same manner as the case of a single file. Pieces may overlap file boundaries."</em>
+<h2>This Torrent Descriptor has the following SHA1 Hashes for each piece,
+respectively:</h2>
+<em>NOTE PER THE SPEC: "For the purposes of piece boundaries in the multi-file
+case, consider the file data as one long continuous stream, composed of the
+concatenation of each file in the order listed in the files list. The number of
+pieces and their boundaries are then determined in the same manner as the case
+of a single file. Pieces may overlap file boundaries."</em>
 <table style="font-family: sans-serif;" border="1">
 <tbody>
 <tr>
@@ -333,8 +397,19 @@ udp://tracker.ccc.de:80/announce</td>
 
 ## References and acknowledgements:
 
-<a href="https://www.cloudwards.net/what-is-torrenting/" target="_blank" rel="noopener noreferrer">https://www.cloudwards.net/what-is-torrenting/</a>
-<a href="https://kennethghartman.com/dead-link/" target="_blank" rel="noopener noreferrer">https://wikigurus.com/Article/Show/298784/Extract-the-SHA1-hash-from-a-torrent-file</a>
-<a href="https://kennethghartman.com/dead-link/" target="_blank" rel="noopener noreferrer">http://error.news/question/139520/extract-the-sha1-hash-from-a-torrent-file/</a>
-<a href="/dead-link/" target="_blank" rel="noopener noreferrer">http://www.kristenwidman.com/blog/33/how-to-write-a-bittorrent-client-part-1/</a>
-<a href="https://wiki.theory.org/BitTorrentSpecification#Metainfo_File_Structure" target="_blank" rel="noopener noreferrer">https://wiki.theory.org/BitTorrentSpecification#Metainfo_File_Structure</a>
+<a href="https://www.cloudwards.net/what-is-torrenting/" target="_blank"
+rel="noopener noreferrer">https://www.cloudwards.net/what-is-torrenting/</a>
+<a href="https://kennethghartman.com/dead-link/" target="_blank" rel="noopener
+noreferrer">https://wikigurus.com/Article/Show/298784/Extract-the-SHA1-hash-from
+-a-torrent-file</a>
+<a href="https://kennethghartman.com/dead-link/" target="_blank" rel="noopener
+noreferrer">http://error.news/question/139520/extract-the-sha1-hash-from-a-torre
+nt-file/</a>
+<a href="/dead-link/" target="_blank" rel="noopener
+noreferrer">http://www.kristenwidman.com/blog/33/how-to-write-a-bittorrent-clien
+t-part-1/</a>
+<a
+href="https://wiki.theory.org/BitTorrentSpecification#Metainfo_File_Structure"
+target="_blank" rel="noopener
+noreferrer">https://wiki.theory.org/BitTorrentSpecification#Metainfo_File_Struct
+ure</a>
