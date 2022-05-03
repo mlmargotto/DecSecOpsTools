@@ -10,10 +10,9 @@ comments: false
 category: blog
 ---
 
-
 ## General Description
 
-The <a href="/media/Log-Connections.zip">Log-Connections.ps1</a> file is a
+The [Log-Connections.ps1](/media/Log-Connections.zip) file is a
 PowerShell Script that Logs active TCP connections and includes the process ID
 (PID) and process name for each connection on a Microsoft Windows computer. 
 The log file name is a parameter that is passed to the script at run time.  A
@@ -28,9 +27,8 @@ display the owning process ID that is associated with each process.  A
 limitation of the netstat command is that it cannot report the associated
 process name, just the PID.   To achieve this, the Log-Connections PowerShell
 script calls the Get-NetworkStatistics function.   This function was written
-by <a href="http://blogs.microsoft.co.il/ScriptFanatic/"  target="_blank"
-rel="noreferrer noopener">>Shay Levy</a> and is available at <a
-href="/dead-link/">http://poshcode.org/2701</a> .
+by [\>Shay Levy](http://blogs.microsoft.co.il/ScriptFanatic/) and is
+available at [http://poshcode.org/2701](/dead-link/).
 
 The Log-Connections script calls the `Get-NetworkStatistics` function
 repeatedly in an infinite loop, comparing the current snapshot with the
@@ -53,10 +51,7 @@ PowerShell can be invoked by typing “powershell” in the search box above
 the Windows Start Button, or by typing “powershell” at the Windows command
 prompt.
 
-A great website to learn more about PowerShell is at <a
-href="http://www.powershellpro.com/powershell-tutorial-introduction/"
-rel="nofollow">http://www.powershellpro.com/powershell-tutorial-introduction/</a
->.
+A great website to learn more about PowerShell is at [http://www.powershellpro.com/powershell-tutorial-introduction/](http://www.powershellpro.com/powershell-tutorial-introduction/).
 
 ## PowerShell Security Features
 
