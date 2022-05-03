@@ -9,17 +9,17 @@ comments: false
 category: blog
 ---
 
-<em>**The following excerpt is a thread from a discussion on LinkedIn in the
+_**The following excerpt is a thread from a discussion on LinkedIn in the
 Information Security Community group. This discussion was the impetus for my
 article [Is Skype Secure?](/media/Is_Skype_Secure.pdf)  which includes an
-assessment of Skype Security Risks and an assessment methodology.**</em>
+assessment of Skype Security Risks and an assessment methodology.**_
 
 ## Question:
 
-* <em>Anybody using Skype yet at an enterprise level? If so, what changed your
+* _Anybody using Skype yet at an enterprise level? If so, what changed your
 mind about the "vulnerabilities" claimed to be associated with it?
-* <em>Is Skype secure for business?</em>
-* <em>Is Skype Safe?</em>
+* _Is Skype secure for business?_
+* _Is Skype Safe?_
 
 ## Ken Hartman:
 
@@ -28,18 +28,14 @@ peer connections that it makes when the software is launched. To see what I
 mean, type the command “netstat –no” at the command line before and after
 launching Skype.
 
-Skype has posted an independent security review at <a
-href="http://download.skype.com/share/security/2005-031%20security%20evaluation.
-pdf">http://download.skype.com/share/security/2005-031%20security%20evaluation.p
-df</a> which covers the secure design considerations and touts its usage of
+Skype has posted an independent security review at [http://download.skype.com/share/security/2005-031%20security%20evaluation.pdf](http://download.skype.com/share/security/2005-031%20security%20evaluation.pdf)
+which covers the secure design considerations and touts its usage of
 encryption. However, I am uncomfortable with multiple encrypted p2p connections
 to IP addresses across the globe. To see what I mean use the “nslookup”
 command at the command line on some of the connections reported by netstat as
 being created by the Skype process ID.
 
-There is a fairly interesting analysis of the Skype Protocol at <a
-href="http://arxiv.org/ftp/cs/papers/0412/0412017.pdf"  target="_blank"
-rel="noreferrer noopener">http://arxiv.org/ftp/cs/papers/0412/0412017.pdf</a>
+There is a fairly interesting analysis of the Skype Protocol at [http://arxiv.org/ftp/cs/papers/0412/0412017.pdf](http://arxiv.org/ftp/cs/papers/0412/0412017.pdf)
 that explains how the peer to peer connections seem work, but the paper was
 published in 2004, so it may be not have the most up to date information.
 
@@ -52,13 +48,13 @@ It will be quite interesting to see what Microsoft does with Skype.
 
 ## Comment:
 
-<em>@Kenneth &mdash; Your points are valid certainly. But, the cost MS OCS is
+_@Kenneth &mdash; Your points are valid certainly. But, the cost MS OCS is
 certainly non-trivial as well. If you implement OCS, you have to deal with
 redundancy and single-point of failure issues as an engineered solution. The
 hardware alone on this type of implementation ran $1.2M for one of my clients
 last year. Sure these kinds of consulting projects makes us consultants smile,
 but you can certainly understands why many organizations would opt for Skype
-instead of spending this level of cost when they could get Skype for free!</em>
+instead of spending this level of cost when they could get Skype for free!_
 
 ## Ken Hartman:
 
@@ -80,7 +76,7 @@ decision regarding Skype and what they opted instead.
 
 ## Comment:
 
-<em>@Kenneth - Roger, that...I think anybody using Skype does not have a
+_@Kenneth - Roger, that...I think anybody using Skype does not have a
 security policy in mind. They're using it for the sheer convenience of a "FREE"
 phone call, or low cost international service, and the video conferencing
-capability. It’s all about convenience; not about security.</em>
+capability. It’s all about convenience; not about security._
