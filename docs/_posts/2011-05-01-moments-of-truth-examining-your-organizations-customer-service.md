@@ -15,18 +15,16 @@ organization creates an impression in the minds of all who witness the
 interaction. These "moments of truth" are snapshots that reveal the character
 of an organization.
 
-In the book <em><a
-href="http://www.amazon.com/gp/product/0060915803/ref=as_li_ss_tl?ie=UTF8&camp=1
-789&creative=390957&creativeASIN=0060915803&linkCode=as2&tag=kennetcom-20">Momen
-ts of Truth</a>, </em>Jan Carlzon urges leaders to experience various customer
+In the book _[Momen ts of Truth](http://www.amazon.com/gp/product/0060915803/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0060915803&linkCode=as2&tag=kennetcom-20)
+, _Jan Carlzon urges leaders to experience various customer
 service interactions from the perspective of the customer. As an example,
 Carlzon suggests anonymously calling the company switchboard to see how the
 receptionist greets customers. Carlzon, an airline executive, often flew on
 various flights in an unreserved seat to emphasize that he wanted the other
 passengers to get the same treatment that employees would give him.
 
-One of the axioms for the Total Quality Movement is that the <em>customer is
-the judge of the feast</em>. Therefore, if an organization desires to improve
+One of the axioms for the Total Quality Movement is that the _customer is
+the judge of the feast_. Therefore, if an organization desires to improve
 the quality of the services they provide, it is imperative to multiply the
 positive moments of truth and reduce the negative interactions. As leaders
 pursuing quality improvement, we must raise the awareness of the collective
@@ -35,9 +33,21 @@ inspires, great customer service. As your team focuses on how to improve
 customer service, you will find a corresponding improvement in the quality of
 your service.
 
-In addition to the book <em>Moments of Truth, </em>the folks at <a
-href="http://www.qbq.com/" target="_blank" rel="noreferrer noopener">QBQ,
-Inc.</a> have great resources to help foster the culture of personal
-responsibility that engenders excellent service and quality. Also, here's <a
-href="/dead-link/" target="_blank">an article</a> that has some great ideas on
+In addition to the book _Moments of Truth, _the folks at 
+[QBQ, Inc.](http://www.qbq.com/) have great resources to help foster the 
+culture of personal responsibility that engenders excellent service and
+quality. Also, here's [an article](/dead-link/) that has some great ideas on
 how to apply the Moments of Truth concept in a health care environment.
+
+* * *
+
+**Moments of Truth - Examining Your Organization's Customer Service** was published on May 01, 2011 and last modified on May 01, 2011.
+
+#### More Posts:
+
+[InfosecConsultCon](https://kennethghartman.com/blog/InfosecConsultCon/ "InfosecConsultCon")  
+[Interactively Exploring NTFS Timestamps](https://kennethghartman.com/blog/interactively-exploring-ntfs-timestamps/ "Interactively Exploring NTFS Timestamps")  
+[Create an EC2 that Runs Chrome for Sandboxed Web Surfing](https://kennethghartman.com/blog/create-an-ec2-that-runs-chrome-for-sandboxed-websurfing/ "Create an EC2 that Runs Chrome for Sandboxed Web Surfing")  
+[**View all posts**](https://kennethghartman.com/blog/)
+
+* * *
