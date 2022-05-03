@@ -1,7 +1,6 @@
-
-## All Blog Posts
-
-002
+---
+title: All Blog Posts
+---
 
 ### 2021
 
