@@ -34,18 +34,15 @@ Since the Software Engineering Institute first published the capability
 maturity model, many other organizations have adapted the concepts to process
 maturity above and beyond software development.
 
-<hr />
+---
 
 Some good examples of this include:
 
-* <a href="https://en.wikipedia.org/wiki/OPM3">Organizational Project
-Management Maturity Model</a> (OPM3),
-* <a
-href="https://www2.opengroup.org/ogsys/jsp/publications/PublicationDetails.jsp?p
-ublicationid=12450">The Open Group Service Integration Maturity Model</a>
-(OSIMM), and
-* <a href="https://bsimm.com/">The Building Security In Maturity Model</a>
-(BSIMM4)
+* [Organizational Project Management Maturity Model](https://en.wikipedia.org/wiki/OPM3) (OPM3),  
+* [The Open Group Service Integration Maturity Model](https://www2.opengroup.org/ogsys/jsp/publications/PublicationDetails.jsp?publicationid=12450)
+(OSIMM), and  
+* [The Building Security In Maturity Model](https://bsimm.com/)
+(BSIMM4)  
 
 Despite its legacy as one of seminal frameworks for understanding process
 capability, many folks do not understand the high level concepts of the CMM. 
@@ -60,26 +57,27 @@ that this will give you a fresh way of looking at organizational and personal
 change.
 
 # Maturity Levels
+
 There are five levels in the CMM.  I use the acronym “IRDMO” to remember
 them, in order.  These are:
 
 * **Initial** – Few processes are defined and success depends on individual
-effort and heroics
+effort and heroics  
 * **Repeatable** – Basic processes are in place with enough discipline to
-repeat earlier successes
+repeat earlier successes  
 * **Defined** – The  processes are documented, standardized, and integrated
-across the organization
+across the organization  
 * **Managed** – Quantitative measures are used to understand the process and
-product quality
+product quality  
 * **Optimizing** — Innovative continuous improvement is enabled by
-quantitative feedback
+quantitative feedback  
 
 ![The SEI CMM](/images/CMM.png)
 **The 5 Levels of the Capability Maturity Model**
 
 A start-up software company will often have just a handful of rock star
 software developers that make all of the magic happen.  Next comes the
-<em>Repeatable</em> level, where someone else (typically not one of the rock
+_Repeatable_ level, where someone else (typically not one of the rock
 stars) tries to document how the magic happens.  This level cannot be rushed
 through too quickly because processes need time to mature.  Expect the process
 documentation to undergo multiple revisions as it is frequently rewritten to
@@ -89,10 +87,10 @@ bureaucracy, but others will become leaders.
 Eventually, but only because of intentional management focus, the software
 development process will become well-documented and people will be held
 accountable to follow the written processes.  Metrics used to control the
-software process are the hallmark of the <em>Managed</em> level.  Once the
+software process are the hallmark of the _Managed_ level.  Once the
 metrics are used to make data-driven decisions that drive innovational
 improvements to the software development process and the software product
-itself, the organization has achieved the <em>Optimizing</em> level.
+itself, the organization has achieved the _Optimizing_ level.
 
 # Key Process Areas
 
@@ -134,6 +132,6 @@ their skyscraper is unfinished.
 
 # Reference
 
-Software Engineering Institute. (1994). <em>The capability maturity model:
-Guidelines for improving the software process</em>. Reading, Massachusetts:
+Software Engineering Institute. (1994). _The capability maturity model:
+Guidelines for improving the software process_. Reading, Massachusetts:
 Addison-Wesley.
