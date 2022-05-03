@@ -23,13 +23,13 @@ passwords are attacked.  There are two methods---guessing and cracking.
 * **Password Guessing** involves systematically attempting to use passwords on
 a live system.  Many modern systems will temporarily lock out the user account
 or block the source of the guessing attack if too many attempts are made too
-frequently.
+frequently.  
 * **Password Cracking** uses a password file that may have been extracted from
 a system by some sort of hacking attack.  Because the passwords are encrypted
-(hashed) in the file, <em>cracking </em> involves systematically encrypting a
+(hashed) in the file, _cracking _ involves systematically encrypting a
 password guess to see if the hash of the guess matches the actual password’s
 hash.  Unlike password guessing, password cracking software can attempt several
-hundred passwords a second.
+hundred passwords a second.  
 
 It typically is not too hard for the attacker to figure out the encryption
 algorithm based on the length of the hash among other things.  This task is
@@ -52,13 +52,14 @@ the top.  And if you think that you are clever by using profanity, you would be
 wrong.  It is not uncommon for attackers to collect dictionary words from the
 Facebook pages of those they attack and to glean buzzwords from online
 publications of the industry of the site that they attack.
+
 * **Brute Force Attack**---A brute force attack is simply guessing passwords in
 sequential order, such as a-z, aa-zz, aaa-zzz, etc.  Of course, mixed case and
-symbols are also used.
+symbols are also used.  
 * **Hybrid Attack**---Most modern password attack software will use a
 combination of both a dictionary attack and a Brute Force Attack.  Some
 software, such as “John the Ripper” will even try common permutations so
-typing like a hacker does not make you more secure either.
+typing like a hacker does not make you more secure either.  
 
 **Conclusion**
 
@@ -71,13 +72,7 @@ such as “#12GmTotR&R” which can be remembered by “#12 Give me That old
 time Rock & Roll.”  Or use a password vault to generate the random password
 for you.
 
-<hr>
+* * *
 
 NOTE: This is a Security Awareness Article, for a more technical discussion of
-the topic <a
-href="http://www.informit.com/articles/article.aspx?p=704311&seqNum=4">check
-out this excerpt</a> from Ed Skoudis’s Counter Hack Reloaded book. (<a
-href="http://www.amazon.com/gp/product/0131481045/ref=as_li_ss_tl?ie=UTF8&camp=1
-789&creative=390957&creativeASIN=0131481045&linkCode=as2&tag=kennetcom-20">Count
-er Hack Reloaded: A Step-by-Step Guide to Computer Attacks and Effective
-Defenses (2nd Edition)</a>)
+the topic [check out this excerpt](http://www.informit.com/articles/article.aspx?p=704311&seqNum=4) from Ed Skoudis’s Counter Hack Reloaded book. ([Counter Hack Reloaded: A Step-by-Step Guide to Computer Attacks and Effective Defenses (2nd Edition)](http://www.amazon.com/gp/product/0131481045/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0131481045&linkCode=as2&tag=kennetcom-20))
