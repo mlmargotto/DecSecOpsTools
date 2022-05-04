@@ -49,7 +49,7 @@ This shown below with the output:
 The closer the entropy value is to 8.0, the higher the entropy.  It is often
 fun and useful to look at the frequency distribution of the bytes that comprise
 the file, so I have tweaked the code to create a frequency distribution bar
-chart using [MatPlotLib]http://matplotlib.org/)
+chart using [MatPlotLib](http://matplotlib.org/)
 
 **Note:**  If you do not have MatPlotLib and/or Python installed, I highly
 recommend [Pythonxy](http://code.google.com/p/pythonxy/)  to simplify the
