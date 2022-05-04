@@ -13,7 +13,7 @@ category: blog
 In today’s fast-paced world, we are often so busy trying to scratch off items
 on our to-do lists that we short change ourselves of time to reflect on how to
 improve the way we do things. We can get so busy [fighting alligators](/blog/alligator-fighting/)
-that we forget to think about how to drain the swamp. The solution for some 
+that we forget to think about how to drain the swamp. The solution for some
 companies is to hire a consultant.
 
 Before retaining a pricey consultant, consider that you may be the best choice
