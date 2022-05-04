@@ -18,8 +18,6 @@ only the reference to the file from the “Master File Table.”  Among other
 things, the Master File Table is essentially an index that keeps track of the
 location of each file.
 
-001
-
 There is a variety of GUI-based utilities such as [CCleaner](http://www.piriform.com/ccleaner/builds)
  or [Freeraser](http://www.freeraser.com/), but **[SDelete](http://technet.microsoft.com/en-us/sysinternals/bb897443)**
 is very simple to use for anyone comfortable with the command line.
