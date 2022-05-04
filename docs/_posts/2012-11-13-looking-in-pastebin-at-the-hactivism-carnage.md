@@ -73,7 +73,7 @@ This site seems to be running an out-dated webserver (Microsoft-IIS/6.0). 
 This proves once again that if you do not use a vulnerability scanner on your
 website, someone else will.
 
-![Screen Shot](/images/screenclip-300x89-300x89.png)
+![Screen Shot](https://kennethghartman.com/images/screenclip-300x89-300x89.png)
 
 Another record stated “[35.000 Israelis Personal In...](/dead-link/)” but
 just had hyperlinks.
