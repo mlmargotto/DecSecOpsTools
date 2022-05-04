@@ -13,7 +13,7 @@ category: blog
 _UPDATE: After writing this post, I was put in contact with Jack Emanuelson,
 a board member of the national OPSEC Professionals Society (OPS).  He was
 gracious enough to contribute some fantastic information on this topic.  Read
-his posting here: [OPSEC is really not OPSEC](/blog/opsec-is-really-not-opsec/).
+his posting here: [OPSEC is really not OPSEC](/blog/opsec-is-really-not-opsec/)._
 
 ---
 
