@@ -11,6 +11,6 @@ category: blog
 Sharing this slide because it illustrates the business value of integrating
 application security testing at the front of the Systems Development Life Cycle.
 
-![Application Security Testing Matters](/images/AppSecTestingMatters.png)
+![Application Security Testing Matters](https://kennethghartman.com/images/AppSecTestingMatters.png)
 
 (Slide courtesy of [Veracode, Inc.](http://www.veracode.com/))
