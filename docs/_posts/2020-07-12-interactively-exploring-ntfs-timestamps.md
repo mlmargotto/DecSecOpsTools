@@ -613,7 +613,7 @@ However, other forensic tools can still read the deleted file and its
 corresponding metadata. For example the image below uses AccessData FTK Imager:
 
 ![FTK Imager Screenshot of the deleted cat2 image](/images/deletedCat2.png)
-<em>FTK Imager Screenshot of the deleted cat2 image</em>
+_FTK Imager Screenshot of the deleted cat2 image_
 
 ## Conclusion
 

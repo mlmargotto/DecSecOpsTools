@@ -24,24 +24,24 @@ as defined by the standard:
 
 **Cryptographic module**: the set of hardware, software, and/or firmware that
 implements approved security functions (including cryptographic algorithms and
-key generation) and is contained within the cryptographic boundary.</em>
+key generation) and is contained within the cryptographic boundary._
 
 In the field of information security, the concept of a security boundary is of
 vital importance.  Security is assurance (to a specific level) is only offered
 within a specific, defined boundary.  In other words, if a certain HSM has FIPS
 140-2 validation it can be trusted to perform its cryptographic functions
-securely <em>within the limits of the defined level of security</em>.  However,
+securely _within the limits of the defined level of security_.  However,
 it is still possible to implement an HSM in an insecure manner making the FIPS
 140-2 validation misleading to a layman who does not understand the limitations
 of the validation.  The Overview section of the standard even contains the
 following caveat:
 
-<em>Similarly, the use of a validated cryptographic module in a computer or
+_Similarly, the use of a validated cryptographic module in a computer or
 telecommunications system is not sufficient to ensure the security of the
-overall system.</em>
+overall system._
 
 Discussions regarding FIPS 140-2 typically involve a determination of what
-<em>level</em> of security is appropriate.  The FIPS 140-2 Standard defines
+_level_ of security is appropriate.  The FIPS 140-2 Standard defines
 four different levels:
 
 * **Security Level 1** – This is the lowest level of security. While only

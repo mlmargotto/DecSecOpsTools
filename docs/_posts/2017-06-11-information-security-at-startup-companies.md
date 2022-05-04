@@ -9,16 +9,16 @@ comments: false
 category: blog
 ---
 
-<strong><em>The following excerpt is a thread from a discussion on Linkedin in
-the Information Security Community group.</em></strong>
+<strong>_The following excerpt is a thread from a discussion on Linkedin in
+the Information Security Community group._</strong>
 
 ## Question:
 
-<em>How can a young professional convince startups that InfoSec is needed? And
-then get them to hire him?  </em><em>I am currently studying InfoSec Management
+_How can a young professional convince startups that InfoSec is needed? And
+then get them to hire him?  __I am currently studying InfoSec Management
 and I am looking to get a job at startups as this will provide me room to grow
 and experiment with less of an impact. How can I convince them it is needed and
-that I am their guy?</em>
+that I am their guy?_
 
 ## Ken Hartman:
 

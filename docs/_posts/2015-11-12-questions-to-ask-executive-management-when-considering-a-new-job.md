@@ -40,8 +40,8 @@ years?
 
 ## Deeper Questions:
 
-<em>NOTE: Make sure that it is appropriate to ask these questions! These
-require a higher level of rapport with the person you are talking to.</em>
+_NOTE: Make sure that it is appropriate to ask these questions! These
+require a higher level of rapport with the person you are talking to._
 
 * Tell me about {name a key person} who has recently left the company?
 * What about employee turnover?

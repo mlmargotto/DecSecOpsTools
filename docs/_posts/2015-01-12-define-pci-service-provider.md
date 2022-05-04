@@ -11,12 +11,12 @@ comments: false
 category: blog
 ---
 
-A **PCI Service Provider** is a "<em>Business entity that is not a payment
+A **PCI Service Provider** is a "_Business entity that is not a payment
 brand, directly involved in the processing, storage, or transmission of
 cardholder data on behalf of another entity. This also includes companies that
 provide services that control or could impact the security of cardholder data.
 Examples include managed service providers that provide managed firewalls, IDS
-and other services as well as hosting providers and other entities."</em> [1]
+and other services as well as hosting providers and other entities."_ [1]
 
 When working with the Payment Card Industry Data Security Standard (PCI-DSS),
 it is important to understand this definition to make sure your compliance
@@ -26,15 +26,15 @@ compliance implications.  When a company issues corporate credit cards to its
 staff, the company is in the same role as the individual employees--cardholder.
 
 
-**Cardholders** are defined as "<em>Non-consumer or consumer customer to whom a
+**Cardholders** are defined as "_Non-consumer or consumer customer to whom a
 payment card is issued to or any individual authorized to use the payment
-card</em> [1]."  Cardholders are not subject to the PCI-DSS, only merchants,
+card_ [1]."  Cardholders are not subject to the PCI-DSS, only merchants,
 service providers, acquiring banks, and issuing banks.   Also note that the
 payment brands (MasterCard, Visa, American Express, JCB, and Discover)
 themselves are not required to be PCI compliant, even though they comprise the
 PCI Security Standards Council.
 
-The PCI Council defines a **Merchant** <em>as any entity that accepts payment
+The PCI Council defines a **Merchant** _as any entity that accepts payment
 cards bearing the logos of any of the five members of PCI SSC (American
 Express, Discover, JCB, MasterCard or Visa) as payment for goods and/or
 services. Note that a merchant that accepts payment cards as payment for goods
@@ -42,14 +42,14 @@ and/or services can also be a service provider, if the services sold result in
 storing, processing, or transmitting cardholder data on behalf of other
 merchants or service providers. For example, an ISP is a merchant that accepts
 payment cards for monthly billing, but also is a service provider if it hosts
-merchants as customers" </em>[1] .
+merchants as customers" _[1] .
 
 For Service providers, there is the "telecommunications exception" which
-states, <em>"If an entity provides a service that involves only the provision
+states, _"If an entity provides a service that involves only the provision
 of public network access—such as a telecommunications company providing just
 the communication link—the entity would not be considered a service provider
 for that service (although they may be considered a service provider for other
-services)"</em> [1].
+services)"_ [1].
 
 ## What does all this mean?
 

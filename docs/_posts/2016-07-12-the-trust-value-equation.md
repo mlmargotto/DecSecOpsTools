@@ -9,9 +9,9 @@ comments: false
 category: blog
 ---
 
-> <em>“I must trust that the benefit that I gain from using your service
+> _“I must trust that the benefit that I gain from using your service
 exceeds the
-> concerns (Fear, Uncertainty, and Doubt) that I  have about using it.”</em>
+> concerns (Fear, Uncertainty, and Doubt) that I  have about using it.”_
 
 ![The Trust-Value Equation](/images/Trust-Value-Equation.png)
 
@@ -52,8 +52,8 @@ tradeoffs that the customer may not fully appreciate.
 
 In other words, it boils down to this question:
 
-> <em>“Do I trust that is the application secure enough for me for me to use
-for my commercial advantage?”</em>
+> _“Do I trust that is the application secure enough for me for me to use
+for my commercial advantage?”_
 
 I believe that this is an ongoing calculation where customers continuously ask
 themselves whether the trust-value equation assumptions have changed.  Service

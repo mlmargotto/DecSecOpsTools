@@ -20,7 +20,7 @@ maintained over time.
 Unfortunately, there is no such thing as a security “magic bullet.”  And if
 there were, could we put all of our faith in it?  What if the magic bullet
 failed?  It is for this reason that well run security programs will employ a
-security principle of <em>defense in depth.</em>  The defense in depth
+security principle of _defense in depth._  The defense in depth
 principle calls for multiple, overlapping security controls such that if one
 control fails, the other controls will function as designed.
 
@@ -32,7 +32,7 @@ it past not one, but multiple obstacles on the way to the goal.
 When discussing security controls, most people think of _preventive controls,_
 such as a firewall or a razor wire fence.  These are called preventive controls
 because their objective is to prevent an attack.  However, there are also
-_deterrent controls_ and <em>detective controls</em>.
+_deterrent controls_ and _detective controls_.
 
 Examples of a deterrent control might be a logon banner or a no trespassing
 sign.  Of course these will not dissuade a determined attacker, but they help

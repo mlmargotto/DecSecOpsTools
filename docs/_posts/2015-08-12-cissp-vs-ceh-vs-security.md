@@ -14,23 +14,23 @@ category: blog
 resulted in an interesting discussion, so I thought that I would share it and
 my response.**
 
-<em>OPINIONS wanted: Ok all of my professional FB friends. I am looking at
+_OPINIONS wanted: Ok all of my professional FB friends. I am looking at
 possibly taking some training and obtaining new certifications down a slightly
 different branch in my IT career. I am looking at taking a Cyber Security
 program, in the end I will have my CompTIA Security+, CompTIA Advanced Security
 Practitioner and Certified Ethical Hacker (CEH) certifications to add to my
-toolbox of skills.</em>
+toolbox of skills._
 
-<em> I have been in the consulting world for most of my IT career and am
+_ I have been in the consulting world for most of my IT career and am
 looking for feedback on what the perceived value of these certifications are.
 If you are in a position to make a decision at your company would you be
-looking to hire a CEH to test your companies security?</em>
+looking to hire a CEH to test your companies security?_
 
-<em> I know there is a huge need for cyber security, I guess I'm wondering if
+_ I know there is a huge need for cyber security, I guess I'm wondering if
 there are enough businesses willing to pay for it and what those businesses
 look like. Maybe cause I don't think I could sit at a desk at one company and
-do the job all day.</em>
-<em> Any and all thoughts are welcome. --Mike</em>
+do the job all day._
+_ Any and all thoughts are welcome. --Mike_
 
 <hr>
 

@@ -29,7 +29,7 @@ the majority of the information security risks with the exception of some edge
 cases—it is still a good security policy.
 
 What about the edge cases that are still a concern?  This is where a
-<em>Security Policy Exception Process</em> should come into play.  The Security
+_Security Policy Exception Process_ should come into play.  The Security
 Policy Exception Process should identify the specific places where there issues
 with policy compliance so that the issue is elevated to the proper level of
 management to ensure that the risk is recognized and if appropriate, managed

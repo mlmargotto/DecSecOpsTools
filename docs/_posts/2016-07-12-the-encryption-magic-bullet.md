@@ -18,8 +18,8 @@ no clothes” or call their project “security theater.”
 
 Encryption is not a magic bullet, but it does it play a vital role in a
 company’s data protection strategy.  Most people are aware that there are two
-high-level types of encryption. These are <em>encryption-at-rest</em> and
-<em>encryption-in-transit</em>.  Because an end-to-end encryption commitment
+high-level types of encryption. These are _encryption-at-rest_ and
+_encryption-in-transit_.  Because an end-to-end encryption commitment
 uses both types of encryption in various ways, it is important to dive just a
 little deeper to eliminate any confusion when a cloud service provider is
 discussing encryption.
@@ -33,20 +33,20 @@ the data.  Unauthorized users or processes will see ciphertext.  Ciphertext
 looks like random data and has no discernible patterns or meaning.
 
 The most important thing to remember when thinking about encryption-at-rest is
-that <em>the entity which holds the encryption/decryption key is responsible
-for enforcing access control</em>.  Encryption can be applied at different
+that _the entity which holds the encryption/decryption key is responsible
+for enforcing access control_.  Encryption can be applied at different
 layers to mitigate various types of threats pertaining to unauthorized access.
 For example, sometimes this is implemented at the storage layer using
 self-encrypting disks.  In this case, the storage operating system holds the
 key.  If a disk drive is removed and connected to another system, the data will
 not be able to be read.  It is important to note that if an attacker can come
-through the operating system that <em>is authorized</em> to use the storage
+through the operating system that _is authorized_ to use the storage
 system, this type of encryption will be ineffective.  This kind of encryption
-is also known as **<em>transparent disk encryption</em>** because the
+is also known as **_transparent disk encryption_** because the
 encryption and decryption operations operate in a manner that is transparent to
 the operating system.
 
-Moving up a layer, there is also **<em>transparent database encryption</em>**.
+Moving up a layer, there is also **_transparent database encryption_**.
 The database system performs the encryption, and it is indeed transparent to
 the applications which store data in the database.  Because the database
 management system holds the key, it has the access control responsibility.
@@ -54,15 +54,15 @@ Access to the data must be made via the database management system, which will
 typically implement role-based access control.  Anyone attempting to access the
 data by circumventing the database management system will only see ciphertext.
 
-With **<em>application-layer encryption</em>**, the application holds the
+With **_application-layer encryption_**, the application holds the
 encryption key in memory and encrypts specific fields before inserting them
 into the database. Therefore, the application performs the access control
 duties. If the database administrator directly queries the database, all that
 will be returned are records that contain ciphertext.
 
 So far we have talked about three different types of data encryption at rest,
-but what about the storage of the encryption keys? Typically, a **<em>Hardware
-Security Module (HSM)</em>** is used to store the keys and provides other
+but what about the storage of the encryption keys? Typically, a **_Hardware
+Security Module (HSM)_** is used to store the keys and provides other
 important security features.
 
 Encryption keys should never be stored with the application or the data they

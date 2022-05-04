@@ -45,16 +45,3 @@ For your operation, ask yourself:
 * Do our measurements produce unintended consequences?
 * Are our measurements timely enough to make a difference?
 * How can we reduce the score-keeping burden?
-
-* * *
-
-**Maxwell's Law of the Scoreboard** was published on April 01, 2011 and last modified on April 01, 2011.
-
-#### More Posts:
-
-[InfosecConsultCon](https://kennethghartman.com/blog/InfosecConsultCon/ "InfosecConsultCon")  
-[Interactively Exploring NTFS Timestamps](https://kennethghartman.com/blog/interactively-exploring-ntfs-timestamps/ "Interactively Exploring NTFS Timestamps")  
-[Create an EC2 that Runs Chrome for Sandboxed Web Surfing](https://kennethghartman.com/blog/create-an-ec2-that-runs-chrome-for-sandboxed-websurfing/ "Create an EC2 that Runs Chrome for Sandboxed Web Surfing")  
-[**View all posts**](https://kennethghartman.com/blog/)
-
-* * *

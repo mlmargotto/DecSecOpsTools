@@ -90,10 +90,10 @@ example, the output would look as follows:
 
 
 <h1>Torrent Descriptor File Details</h1>
-<em>* Denotes an optional field in the Torrent Descriptor File. As a result it
+_* Denotes an optional field in the Torrent Descriptor File. As a result it
 may be blank. Refer to the <a
 href="https://wiki.theory.org/BitTorrentSpecification#Metainfo_File_Structure">B
-itTorrent Specification</a>.</em>
+itTorrent Specification</a>._
 <h2>Meta Data</h2>
 <table style="font-family: sans-serif;" border="1">
 <tbody>
@@ -174,8 +174,8 @@ udp://tracker.ccc.de:80/announce</td>
 
 
 
-<em>NOTE: the length of last piece is calculated as:
-(number of pieces X piece length) - size of torrent</em>
+_NOTE: the length of last piece is calculated as:
+(number of pieces X piece length) - size of torrent_
 <h2>This Torrent Descriptor has the following file paths:</h2>
 <table style="font-family: sans-serif;" border="1">
 <tbody>
@@ -298,11 +298,11 @@ udp://tracker.ccc.de:80/announce</td>
 </table>
 <h2>This Torrent Descriptor has the following SHA1 Hashes for each piece,
 respectively:</h2>
-<em>NOTE PER THE SPEC: "For the purposes of piece boundaries in the multi-file
+_NOTE PER THE SPEC: "For the purposes of piece boundaries in the multi-file
 case, consider the file data as one long continuous stream, composed of the
 concatenation of each file in the order listed in the files list. The number of
 pieces and their boundaries are then determined in the same manner as the case
-of a single file. Pieces may overlap file boundaries."</em>
+of a single file. Pieces may overlap file boundaries."_
 <table style="font-family: sans-serif;" border="1">
 <tbody>
 <tr>

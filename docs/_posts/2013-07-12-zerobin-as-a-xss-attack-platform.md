@@ -9,14 +9,14 @@ comments: false
 category: blog
 ---
 
-<em>What if you could have hundreds of websites from which to launch an
-encrypted cross-site-scripting attack?</em>
+_What if you could have hundreds of websites from which to launch an
+encrypted cross-site-scripting attack?_
 
-<em>What if the webservers could store the XSS attack code for you but could
-not decrypt it?</em>
+_What if the webservers could store the XSS attack code for you but could
+not decrypt it?_
 
-<em>What if the encrypted code could be set to expire after a set time or
-immediately after attacking a single person?</em>
+_What if the encrypted code could be set to expire after a set time or
+immediately after attacking a single person?_
 
 As it turns out, many reputable (and not so reputable) web hosts across the
 internet are hosting ZeroBin PHP code that is vulnerable to XSS.  ZeroBin is an
