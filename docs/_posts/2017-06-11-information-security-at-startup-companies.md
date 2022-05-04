@@ -15,7 +15,7 @@ the Information Security Community group._**
 ## Question:
 
 _How can a young professional convince startups that InfoSec is needed? And
-then get them to hire him?  __I am currently studying InfoSec Management
+then get them to hire him? __I am currently studying InfoSec Management
 and I am looking to get a job at startups as this will provide me room to grow
 and experiment with less of an impact. How can I convince them it is needed and
 that I am their guy?_
