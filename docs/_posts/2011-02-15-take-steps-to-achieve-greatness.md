@@ -33,24 +33,11 @@ Here are my thoughts about how to get started:
 
 * Identify all your stakeholders.
 * Determine what your stakeholders value.
-* Use a [Plan-Do-Act-Check cycle](/blog/plan-do-check-act/). Make sure that  
-your plan includes measurable improvements toward improving on how your  
+* Use a [Plan-Do-Act-Check cycle](/blog/plan-do-check-act/). Make sure that
+your plan includes measurable improvements toward improving on how your
 organization meets one or more stakeholder values.
 
 I've found that the busier a person is, the more intentional the person must
 become to make sure that the _urgent_ does not crowd out the
 _important._ By making measurements along the way, you'll have a
 yardstick to measure progress.
-
-* * *
-
-**Take Steps to Achieve Greatness** was published on February 15, 2011 and last modified on February 15, 2011.
-
-#### More Posts:
-
-[InfosecConsultCon](https://kennethghartman.com/blog/InfosecConsultCon/ "InfosecConsultCon")  
-[Interactively Exploring NTFS Timestamps](https://kennethghartman.com/blog/interactively-exploring-ntfs-timestamps/ "Interactively Exploring NTFS Timestamps")  
-[Create an EC2 that Runs Chrome for Sandboxed Web Surfing](https://kennethghartman.com/blog/create-an-ec2-that-runs-chrome-for-sandboxed-websurfing/ "Create an EC2 that Runs Chrome for Sandboxed Web Surfing")  
-[**View all posts**](https://kennethghartman.com/blog/)
-
-* * *
