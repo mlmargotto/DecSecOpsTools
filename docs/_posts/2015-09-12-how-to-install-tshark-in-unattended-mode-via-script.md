@@ -30,7 +30,7 @@ several security tools onto a virtual machine and got stuck when TShark 
 popped the following Qt screen:
 
 ![Qt Screen for configuring
-wireshark](/images/Configuring_wireshark-common-1-300x120.png)
+wireshark](https://kennethghartman.com/images/Configuring_wireshark-common-1-300x120.png)
 
 My goal is to have everything installed and properly configured without a
 user's involvement.  There are several
