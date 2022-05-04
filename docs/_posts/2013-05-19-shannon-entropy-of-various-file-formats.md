@@ -24,7 +24,7 @@ Trust in the Protection of Privacy](/media/Understanding-the-Role-of-Trust-in-th
 PDF file and named it “TestDoc.docx.”  Note that docx is the default file
 extension of MS Word 2010.
 
-![TestDoc.docx](/images/TestDoc.docx-1024x464.png)
+![TestDoc.docx](https://kennethghartman.com/images/TestDoc.docx-1024x464.png)
 
 The frequency distribution of the DOCX file is fairly uniform, with the
 exception of a relatively high occurrence of bytes with the value of zero.
@@ -40,20 +40,20 @@ expecting of File 1.
 TestDoc was also saved as plain text.  Running graph_file_entropy.py produced
 the following result.
 
-![TestDoc.TXT](/images/TestDoc.TXT-1024x464.png)
+![TestDoc.TXT](https://kennethghartman.com/images/TestDoc.TXT-1024x464.png)
 
 ## File 4 – TestDoc.RTF
 
 I repeated the process after saving the file in rich text format.
 
-![TestDoc.RTF](/images/TestDoc.RTF-1024x464.png)
+![TestDoc.RTF](https://kennethghartman.com/images/TestDoc.RTF-1024x464.png)
 
 ## File 5 – TestDoc.PDF
 
 The TestDoc.PDF file has more entropy than the any of the other files we have
 examined thus far.
 
-![TestDoc.PDF](/images/TestDoc.PDF-1024x464.png)
+![TestDoc.PDF](https://kennethghartman.com/images/TestDoc.PDF-1024x464.png)
 
 ## File 6 – TestDoc.GPG
 
@@ -61,7 +61,7 @@ To generate File 6, I encrypted the TestDoc.DOCX with Gpg4win (GNU Privacy
 Guard for Windows).  The result is a file with a very high entropy of 7.9945
 out of a possible max of 8.0.
 
-![TestDoc.GPG](/images/TestDoc.GPG_-1024x464.png)
+![TestDoc.GPG](https://kennethghartman.com/images/TestDoc.GPG_-1024x464.png)
 
 ## File 7 – WINWORD.EXE
 
@@ -73,7 +73,7 @@ corresponding distribution chart.
 Like the chart for the DOCX file, this chart is skewed by a high frequency of
 bytes with a value of zero.
 
-![WINWORD.EXE](/images/WINWORD.EXE_-1024x464.png)
+![WINWORD.EXE](https://kennethghartman.com/images/WINWORD.EXE_-1024x464.png)
 
 ## File 8 – Regular-MP3.mp3
 
@@ -81,7 +81,7 @@ I was also curious of the entropy of MP3 files.  I copied the _So Caught up
 in You_ MP3 by the classic rock band “38 Special” into my working
 directory and renamed it “Regular-MP3.mp3” for the purpose of testing.
 
-![Regular-MP3.mp3](/images/Regular-MP3-1024x464.png)
+![Regular-MP3.mp3](https://kennethghartman.com/images/Regular-MP3-1024x464.png)
 
 The MP3 file format is very compressed, so it is not a surprise that it has
 high entropy.
@@ -91,20 +91,20 @@ high entropy.
 The Regular-MP3 file was compressed using 7-Zip, a popular file compression
 utility to get the Compressed-MP3.7z that I processed next.
 
-![Compressed-MP3.7z](/images/Compressed-MP3.7z-1024x464.png)
+![Compressed-MP3.7z](https://kennethghartman.com/images/Compressed-MP3.7z-1024x464.png)
 
 ## File 10 – GPG-Encrypted-MP3.gpg
 
 I encrypted the Regular-MP3 file using Gpg4win in a manner similar to File 6.
 
-![GPG-Encrypted-MP3.gpg](/images/GPG-Encrypted-MP3.gpg_-1024x464.png)
+![GPG-Encrypted-MP3.gpg](https://kennethghartman.com/images/GPG-Encrypted-MP3.gpg_-1024x464.png)
 
 ## Observations
 
 The following table summarizes the results I obtained from running
 graph_file_entropy.py:
 
-![Summary of Results](/images/Summary.png)
+![Summary of Results](https://kennethghartman.com/images/Summary.png)
 
 My observations show that although the Regular-MP3 file is compressed already,
 7-zip was able to compress it more.  When compressed with 7-zip, it has very
