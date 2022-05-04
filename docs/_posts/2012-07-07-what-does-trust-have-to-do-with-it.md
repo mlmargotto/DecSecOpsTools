@@ -15,6 +15,7 @@ NOTE: This is cross-posted from the HIMSS Blog at [http://blog.himss.org/2012/06
 _Here is latest installment from the HIMSS Privacy and Security
 Committee…called **PSST!**. Keep reading to learn more about the column and
 this month’s topic – Patient Trust _by [Kenneth G. Hartman, CISSP, CPHIMS, GSEC](https://kennethghartman.com/)
+
 The HIMSS Privacy and Security Committee chose the topic of Patient Trust as
 the “PSST” for the month of June to coordinate with the release of a new
 white paper titled [Understanding the Role of Trust in the Protection of Privacy](/media/Understanding-the-Role-of-Trust-in-the-Protection-of-Privacy.pdf)_.
