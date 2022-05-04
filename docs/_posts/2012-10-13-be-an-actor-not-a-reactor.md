@@ -21,18 +21,19 @@ that concept to our everyday work life.
 
 In the early 1990’s a neuroscientist named Giacomo Rizzolatti and some of his
 graduate students discovered “mirror neurons” while scanning the brain
-activity of a monkey. [\[1\]](http://www.scientificamerican.com/article.cfm?id=mirroring-behavior)  Subsequent research has
-suggested that these mirror neurons may help us choose an appropriate response
-to behaviors that we observe. [\[2\]](http://www.sciencemag.org/cgi/content/abstract/324/5925/403)
+activity of a monkey. [\[1\]](http://www.scientificamerican.com/article.cfm?id=mirroring-behavior)
+Subsequent research has suggested that these mirror neurons may help us
+choose an appropriate response to behaviors that we observe. [\[2\]](http://www.sciencemag.org/cgi/content/abstract/324/5925/403)
 
 Rizzolatti’s discovery has spawned scores of research regarding the
 applications of behavior mirroring.  One interesting study was highlighted in a
 ScienceDaily.com article that is titled, _”Mirroring” Might Reflect
-Badly On You._([3](http://www.sciencedaily.com/releases/2011/07/110728103139.htm))  In this study, Piotr
-Winkielman and his team contrived various experiments where observers evaluated
-an interviewee on characteristics such as  general competence, trustworthiness
-and likability.  In some experiments, the interviewee mimicked the interviewer
-and in some they did not.  As a result of this study, they concluded that:
+Badly On You._([3](http://www.sciencedaily.com/releases/2011/07/110728103139.htm))
+In this study, Piotr Winkielman and his team contrived various experiments
+where observers evaluated an interviewee on characteristics such as general
+competence, trustworthiness and likability.  In some experiments, the
+interviewee mimicked the interviewer and in some they did not.  As a
+result of this study, they concluded that:
 
 _“It is not merely interacting with negatively perceived people that has a
 social cost; you pay a price for aligning with them through body language.”
