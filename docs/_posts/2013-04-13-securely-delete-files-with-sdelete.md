@@ -18,15 +18,11 @@ only the reference to the file from the “Master File Table.”  Among other
 things, the Master File Table is essentially an index that keeps track of the
 location of each file.
 
-There is a variety of GUI-based utilities such as <a
-href="http://www.piriform.com/ccleaner/builds"  target="_blank" rel="noreferrer
-noopener">CCleaner</a> or <a href="http://www.freeraser.com/">Freeraser</a>,
-but **<a href="http://technet.microsoft.com/en-us/sysinternals/bb897443"
-target="_blank" rel="noreferrer noopener">SDelete</a>** is very simple to use
-for anyone comfortable with the command line.  SDelete is part of the
-Sysinternals Suite of utilities for Windows but can be downloaded separately
-from <a href="https://technet.microsoft.com/en-us/sysinternals/bb897443"
-target="_blank" rel="noreferrer noopener">Microsoft Technet</a>.
+There is a variety of GUI-based utilities such as [CCleaner](http://www.piriform.com/ccleaner/builds)xi
+ or [Freeraser](http://www.freeraser.com/), but **[SDelete](http://technet.microsoft.com/en-us/sysinternals/bb897443)**
+is very simple to use for anyone comfortable with the command line.
+SDelete is part of the Sysinternals Suite of utilities for Windows but can
+be downloaded separately from [Microsoft Technet](https://technet.microsoft.com/en-us/sysinternals/bb897443).
 
 Download the zip file and extract **sdelete.exe** to a folder such as c:\temp
 or to your thumb drive.  Navigate to the directory where you stored SDelete and
@@ -65,10 +61,9 @@ I can use the “-s” switch as follows:
 
 Another very cool capability of SDelete is that it can clean all of the free
 space on a hard drive.  This allows one to securely all of the files that were
-deleted previously without being wiped first.  To do this, launch your <a
-href="http://technet.microsoft.com/en-us/library/cc947813(v=ws.10).aspx"
-target="_blank" rel="noreferrer noopener">command prompt as an
-administrator</a>, and then type:
+deleted previously without being wiped first.  To do this, launch your
+[command prompt as an administrator](http://technet.microsoft.com/en-us/library/cc947813(v=ws.10).aspx),
+and then type:
 
 ```
 c:\temp\sdelete –c c:
@@ -78,7 +73,5 @@ c:\temp\sdelete –c c:
 *Using SDelete to wipe free space*
 
 This will take a while for a large hard drive, so you may want to let it run
-overnight.  If you like this, you can <a
-href="https://technet.microsoft.com/en-us/library/cc772785(v=ws.10).aspx">create
- a scheduled task from the command line</a> so that it runs automatically
-whenever you want.
+overnight.  If you like this, you can [create a scheduled task from the command line](https://technet.microsoft.com/en-us/library/cc772785(v=ws.10).aspx)
+so that it runs automatically whenever you want.
