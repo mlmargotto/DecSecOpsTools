@@ -27,7 +27,7 @@ of which 169 were unique.
 After pulling the [raw data](/media/statistics.csv) into MS Excel,
 de-duplicating it, and graphing it, I came up with the chart below:
 
-![Metainfo_Statistics_by_Torrent_Size](/images/Metainfo_Statistics_by_Torrent_Si
+![Metainfo_Statistics_by_Torrent_Size](https://kennethghartman.com/images/Metainfo_Statistics_by_Torrent_Si
 ze.png)
 
 Note that the Y-Axis is Log-2.
