@@ -26,7 +26,7 @@ or block the source of the guessing attack if too many attempts are made too
 frequently.  
 * **Password Cracking** uses a password file that may have been extracted from
 a system by some sort of hacking attack.  Because the passwords are encrypted
-(hashed) in the file, _cracking _ involves systematically encrypting a
+(hashed) in the file, _cracking_ involves systematically encrypting a
 password guess to see if the hash of the guess matches the actual password’s
 hash.  Unlike password guessing, password cracking software can attempt several
 hundred passwords a second.  
@@ -72,7 +72,10 @@ such as “#12GmTotR&R” which can be remembered by “#12 Give me That old
 time Rock & Roll.”  Or use a password vault to generate the random password
 for you.
 
-* * *
+---
 
 NOTE: This is a Security Awareness Article, for a more technical discussion of
-the topic [check out this excerpt](http://www.informit.com/articles/article.aspx?p=704311&seqNum=4) from Ed Skoudis’s Counter Hack Reloaded book. ([Counter Hack Reloaded: A Step-by-Step Guide to Computer Attacks and Effective Defenses (2nd Edition)](http://www.amazon.com/gp/product/0131481045/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0131481045&linkCode=as2&tag=kennetcom-20))
+the topic [check out this excerpt](http://www.informit.com/articles/article.aspx?p=704311&seqNum=4)
+from Ed Skoudis’s Counter Hack Reloaded book. ([Counter Hack Reloaded: A
+Step-by-Step Guide to Computer Attacks and Effective Defenses
+(2nd Edition)](http://www.amazon.com/gp/product/0131481045/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0131481045&linkCode=as2&tag=kennetcom-20))
