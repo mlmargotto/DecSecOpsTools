@@ -37,9 +37,7 @@ score-keeping burden, but the discussion is still crucial.
 As a leader, you want to establish the strategy (MBO) and operating parameters
 (MBE) and then inspire and fuel the discussion by MBWA.
 
---------------------------
+---
 
 *Tom Peters first introduced the concept of MBWA in his book, “In Search of
-Excellence.” Here's an <a
-href="http://www.selfgrowth.com/articles/Jones6.html" target="_blank"
-rel="noreferrer noopener">excellent article on the MBWA</a>.
+Excellence.” Here's an [excellent article on the MBWA](http://www.selfgrowth.com/articles/Jones6.html).
