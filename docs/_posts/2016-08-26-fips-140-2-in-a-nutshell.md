@@ -11,7 +11,9 @@ category: blog
 The US Federal Government requires that its agencies protect sensitive, but
 unclassified information using cryptographic modules that have been validated
 to
-[Federal Information Processing (FIPS) Standard 140-2 “Security Requirements for Cryptographic Modules.“](http://csrc.nist.gov/publications/fips/fips140-2/fips1402.pdf) 
+[Federal Information Processing (FIPS) Standard 140-2 “Security Requirements
+for Cryptographic Modules.“](http://csrc.nist.gov/publications/fips/fips140-2/fips1402.pdf) 
+
 This standard replaced its predecessor, FIPS
 140-1.  In this context, the term “validated” means tested by accredited
 testing organizations to demonstrate that the module itself provides a specific
