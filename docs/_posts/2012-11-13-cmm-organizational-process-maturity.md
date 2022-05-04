@@ -15,7 +15,7 @@ remind me that every impressive work of architecture goes through a maturation
 process.  I printed the picture to bring to my start-up company’s first
 annual holiday party.
 
-![Skyscraper under construction](/images/Skyscraper-under-construction.jpg)
+![Skyscraper under construction](https://kennethghartman.com/images/Skyscraper-under-construction.jpg)
 **All man-made things of beauty go through a construction phase.**
 
 The purpose of the picture was to make a point that architects do not get
@@ -73,7 +73,7 @@ product quality
 * **Optimizing** — Innovative continuous improvement is enabled by
 quantitative feedback
 
-![The SEI CMM](/images/CMM.png)
+![The SEI CMM](https://kennethghartman.com/images/CMM.png)
 **The 5 Levels of the Capability Maturity Model**
 
 A start-up software company will often have just a handful of rock star
