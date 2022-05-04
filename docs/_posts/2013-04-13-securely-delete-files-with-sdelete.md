@@ -18,6 +18,8 @@ only the reference to the file from the “Master File Table.”  Among other
 things, the Master File Table is essentially an index that keeps track of the
 location of each file.
 
+001
+
 There is a variety of GUI-based utilities such as [CCleaner](http://www.piriform.com/ccleaner/builds)xi
  or [Freeraser](http://www.freeraser.com/), but **[SDelete](http://technet.microsoft.com/en-us/sysinternals/bb897443)**
 is very simple to use for anyone comfortable with the command line.
@@ -28,7 +30,7 @@ Download the zip file and extract **sdelete.exe** to a folder such as c:\temp
 or to your thumb drive.  Navigate to the directory where you stored SDelete and
 execute it to see the various options.
 
-![SDelete](/images/SDelete1.png)
+![SDelete](https://kennethghartman.com/images/SDelete1.png)
 
 Let’s say that I have a Word document of secret information that I want to
 securely delete in “My Documents,”  I can delete it with the following
