@@ -33,11 +33,11 @@ client that supports X11-forwarding. I am a fan of
 [MobaXterm](https://mobaxterm.mobatek.net/) and the following settings will
 allow you to connect and run Chrome:
 
-![Image of MobaXterm Configuration](/images/Xwindows-4.png)
+![Image of MobaXterm Configuration](https://kennethghartman.com/images/Xwindows-4.png)
 
 After you connect, you should see Chrome listed in the Applications menu:
 
-![Chrome on EC2 Instance Desktop](/images/chrome.png)
+![Chrome on EC2 Instance Desktop](https://kennethghartman.com/images/chrome.png)
 
 There you go, easy peasy. Of course you can install any other browser of
 graphical software as well.
