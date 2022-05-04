@@ -20,7 +20,7 @@ location of each file.
 
 001
 
-There is a variety of GUI-based utilities such as [CCleaner](http://www.piriform.com/ccleaner/builds)xi
+There is a variety of GUI-based utilities such as [CCleaner](http://www.piriform.com/ccleaner/builds)
  or [Freeraser](http://www.freeraser.com/), but **[SDelete](http://technet.microsoft.com/en-us/sysinternals/bb897443)**
 is very simple to use for anyone comfortable with the command line.
 SDelete is part of the Sysinternals Suite of utilities for Windows but can
@@ -40,7 +40,7 @@ simple command:
 c:\temp\sdelete “C:\Users\Ken\Documents\Secret Info.Docx”
 ```
 
-![Using SDetete to wipe a single file](/images/Sdelete2.png)
+![Using SDetete to wipe a single file](https://kennethghartman.com/images/Sdelete2.png)
 *Using SDetete to wipe a single file*
 
 Note that I provided the full path to SDelete, also I put the full path to the
@@ -58,7 +58,7 @@ I can use the “-s” switch as follows:
 >C:\temp\sdelete -s -q “c:\Users\Ken\Documents\Secret Documents”>
 ```
 
-![Using SDelete to wipe the contents of a directory](/images/Sdelete3.png)
+![Using SDelete to wipe the contents of a directory](https://kennethghartman.com/images/Sdelete3.png)
 *Using SDelete to wipe the contents of a directory*
 
 Another very cool capability of SDelete is that it can clean all of the free
@@ -71,7 +71,7 @@ and then type:
 c:\temp\sdelete –c c:
 ```
 
-![SDelete4](/images/Sdelete4.png)
+![SDelete4](https://kennethghartman.com/images/Sdelete4.png)
 *Using SDelete to wipe free space*
 
 This will take a while for a large hard drive, so you may want to let it run
