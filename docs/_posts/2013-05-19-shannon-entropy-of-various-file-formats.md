@@ -19,11 +19,10 @@ entropy to indicate possible encryption.
 ## File 1 – TestDoc.DOCX
 
 For a representative MS Word file that would be similar to what might be found
-on any computer, I used the word file to create the <a
-href="/media/Understanding-the-Role-of-Trust-in-the-Protection-of-Privacy.pdf">U
-nderstanding the Role of Trust in the Protection of Privacy</a> PDF file and
-named it “TestDoc.docx.”  Note that docx is the default file extension of
-MS Word 2010.
+on any computer, I used the word file to create the [Understanding the Role of
+Trust in the Protection of Privacy](/media/Understanding-the-Role-of-Trust-in-the-Protection-of-Privacy.pdf)
+PDF file and named it “TestDoc.docx.”  Note that docx is the default file
+extension of MS Word 2010.
 
 ![TestDoc.docx](/images/TestDoc.docx-1024x464.png)
 
@@ -32,7 +31,7 @@ exception of a relatively high occurrence of bytes with the value of zero.
 
 ## File 2 -  TestDoc.DOC
 
-Next, I saved TestDoc in the <em>Word 97 – 2003</em> format.  This format has
+Next, I saved TestDoc in the _Word 97 – 2003_ format.  This format has
 the DOC extension and produced the non-uniform distribution that I was
 expecting of File 1.
 
@@ -78,8 +77,8 @@ bytes with a value of zero.
 
 ## File 8 – Regular-MP3.mp3
 
-I was also curious of the entropy of MP3 files.  I copied the <em>So Caught up
-in You</em> MP3 by the classic rock band “38 Special” into my working
+I was also curious of the entropy of MP3 files.  I copied the _So Caught up
+in You_ MP3 by the classic rock band “38 Special” into my working
 directory and renamed it “Regular-MP3.mp3” for the purpose of testing.
 
 ![Regular-MP3.mp3](/images/Regular-MP3-1024x464.png)
