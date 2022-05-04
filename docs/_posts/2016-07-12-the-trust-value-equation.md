@@ -13,9 +13,9 @@ category: blog
 exceeds the
 > concerns (Fear, Uncertainty, and Doubt) that I  have about using it.”_
 
-![The Trust-Value Equation](/images/Trust-Value-Equation.png)
+![The Trust-Value Equation](https://kennethghartman.com/images/Trust-Value-Equation.png)
 
-Benefit can be thought of as a ratio of utility to unfriendliness.  No matter
+Benefit can be thought of as a ratio of utility to unfriendliness. No matter
 how user-friendly an application is, if a customer gains no utility from using
 the service, there is no incentive to use it.  Conversely, waiting in line at
 the Division of Motor Vehicles is a great example of what is typically an
