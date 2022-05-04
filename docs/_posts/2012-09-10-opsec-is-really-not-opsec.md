@@ -32,25 +32,25 @@ sensitive or critical information that, in the hands of an adversary, could
 limit success or give an adversary a decisive advantage. OPSEC follows the
 common risk management format but employs several unique steps:
 
-1. Identification of the asset to be protected;  
-2. Analysis of the threat in terms of the opponent's intent and capabilities;  
+1. Identification of the asset to be protected;
+2. Analysis of the threat in terms of the opponent's intent and capabilities;
 3. A search for vulnerable information that could lead the adversary to piece
-together or infer critical information through open sources and observation;  
+together or infer critical information through open sources and observation;
 4. Leadership analysis of the acceptable level of risk and, if necessary,
-approval of OPSEC measures to lower risk; and  
+approval of OPSEC measures to lower risk; and
 5. Implementation of the approved OPSEC measures and continuous monitoring of
-all risk components to detect change and respond accordingly.  
+all risk components to detect change and respond accordingly.
 
 First and foremost, OPSEC is a risk management process. It begins with
 identifying what it is that you, or your organization wants to accomplish. This
 is usually a program or activity.  Examples of this could include:
 
 * successfully take out an enemy target without suffering undo loss of life or
-equipment;  
+equipment;
 * bringing a new product to market without a competitor interfering or beating
-you to market with a similar product; or  
+you to market with a similar product; or
 * protecting your home and valuables when you are away on a two-weeks’
-vacation.  
+vacation.
 
 The next part of the OPSEC process is to determine if there is an adversary
 that would and could prevent your from accomplishing your objective or benefit
