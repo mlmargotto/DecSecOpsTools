@@ -12,11 +12,9 @@ category: blog
 ---
 
 After extensive searching the InterWebs and finding a lack of documentation on
-how to install <a href="https://www.wireshark.org/docs/man-pages/tshark.html"
-target="_blank" rel="noopener">TShark</a> in a silent/unattended mode, I came
-across a related <a
-href="http://superuser.com/questions/164553/automatically-answer-yes-when-using-
-apt-get-install" target="_blank" rel="noopener">StackExchange post</a>
+how to install [TShark](https://www.wireshark.org/docs/man-pages/tshark.html)
+in a silent/unattended mode, I came across a related
+[StackExchange post](http://superuser.com/questions/164553/automatically-answer-yes-when-using-apt-get-install)
 by Franck Dernoncourt that got me on the right track.  
 
 Here is what I came up with for Debian:
@@ -24,6 +22,7 @@ Here is what I came up with for Debian:
 ```
 DEBIAN_FRONTEND=noninteractive apt-get -y install tshark
 ```
+
 ## Background
 
 For a pet project I am working on, I am creating an install script to install
@@ -34,8 +33,8 @@ popped the following Qt screen:
 wireshark](/images/Configuring_wireshark-common-1-300x120.png)
 
 My goal is to have everything installed and properly configured without a
-user's involvement.  There are several <a
-href="http://superuser.com/questions/319865/how-to-set-up-wireshark-to-run-witho
-ut-root-on-debian" target="_blank" rel="noopener">resources</a> that show how
+user's involvement.  There are several
+[resources](http://superuser.com/questions/319865/how-to-set-up-wireshark-to-run-without-root-on-debian)
+that show how
 to run Wireshark (TSHARK) as non-root, but that is not what I wanted.  I was
 ok with the default "<No>" but wanted to avoid being prompted for it.

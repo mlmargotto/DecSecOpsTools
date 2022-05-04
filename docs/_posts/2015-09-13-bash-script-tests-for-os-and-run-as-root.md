@@ -31,10 +31,11 @@ echo "Incorrect Operating System - Expected RHE6"
 exit 1
 fi
 ```
+
 The example above example is for Red Hat, so the string to grep will vary
 depending on the Linux distribution.
 
-## <span style="font-weight: 400;">Test to Ensure Script is Run as Root</span>
+## Test to Ensure Script is Run as Root
 
 ```
 #Test to ensure script is run as root

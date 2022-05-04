@@ -25,7 +25,6 @@ merchant, as well as simply a cardholder.  Each of these roles has different
 compliance implications.  When a company issues corporate credit cards to its
 staff, the company is in the same role as the individual employees--cardholder.
 
-
 **Cardholders** are defined as "_Non-consumer or consumer customer to whom a
 payment card is issued to or any individual authorized to use the payment
 card_ [1]."  Cardholders are not subject to the PCI-DSS, only merchants,
@@ -71,6 +70,4 @@ and sub-requirements in a table with an indication of who is responsible to
 meet each specific security control.  Although this can be a tedious process,
 it positions the vendor to best meet the needs of their customer.
 
-[1] <a
-href="https://www.pcisecuritystandards.org/documents/PCI_DSS_Glossary_v3-1.pdf">
-https://www.pcisecuritystandards.org/documents/PCI_DSS_Glossary_v3-1.pdf</a>
+[1] [https://www.pcisecuritystandards.org/documents/PCI\_DSS\_Glossary\_v3-1.pdf](https://www.pcisecuritystandards.org/documents/PCI_DSS_Glossary_v3-1.pdf)

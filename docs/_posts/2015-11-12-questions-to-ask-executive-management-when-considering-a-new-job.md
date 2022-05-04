@@ -28,7 +28,6 @@ your team?
 * Whose careers have you influenced the most?
 * What do you, personally, do to  continue to grow?
 
-
 ## On the Future:
 
 * What are your customers telling you is their biggest unmet needs?
@@ -36,7 +35,6 @@ your team?
 years?
 * How will the company look different in the next 3-5 years?
 * What excites you the most about the future of the company?
-
 
 ## Deeper Questions:
 

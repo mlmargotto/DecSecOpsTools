@@ -20,16 +20,13 @@ immediately after attacking a single person?_
 
 As it turns out, many reputable (and not so reputable) web hosts across the
 internet are hosting ZeroBin PHP code that is vulnerable to XSS.  ZeroBin is an
-open source project authored by Sebastien Sauvage, and hosted on his <a
-href="http://sebsauvage.net/wiki/doku.php?id=php:zerobin" target="_blank"
-rel="noreferrer noopener">web page</a>.  The ZeroBin project received
-considerable publicity after <a
-href="http://www.informationweek.com/security/vulnerabilities/anonymous-builds-n
-ew-haven-for-stolen-da/232900590" target="_blank" rel="noreferrer
-noopener">Information Week</a> and <a
-href="http://arstechnica.com/information-technology/2012/04/anonymous-builds-its
--own-pastebin-like-site/" target="_blank" rel="noreferrer noopener">Ars
-Technica</a> wrote articles in April 2012 about Anonymous selecting ZeroBin for
+open source project authored by Sebastien Sauvage, and hosted on his
+[web page](http://sebsauvage.net/wiki/doku.php?id=php:zerobin).
+The ZeroBin project received considerable publicity after
+[Information Week](http://www.informationweek.com/security/vulnerabilities/anonymous-builds-new-haven-for-stolen-da/232900590)
+and
+[Ars Technica](http://arstechnica.com/information-technology/2012/04/anonymous-builds-its-own-pastebin-like-site/)
+wrote articles in April 2012 about Anonymous selecting ZeroBin for
 their AnonPaste data-sharing sites.  This move by Anonymous was in response to
 the PasteBin announcement that they were starting to increase the monitoring of
 the content posted to PasteBin.
@@ -105,7 +102,7 @@ To:
 $('div#cleartext').text($('textarea#message').val()).html();
 ```
 
-----------
+---
 
 **UPDATE:** This vulnerability is now patched. Read the
 [post](/blog/zerobin-xss-vulnerability-patched-in-0-19/).

@@ -12,8 +12,7 @@ category: blog
 
 There is a trend to perform all system administration tasks using scripts. The
 benefit of this approach is that the scripts can be checked into a source
-control system, such as <a href="https://github.com/"
-target="_blank">github</a>.
+control system, such as [github](https://github.com/).
 
 One great application of this strategy is the script that you use to harden
 your Linux systems.  This hardening script, with the appropriate in-line
@@ -22,9 +21,9 @@ can be used to verify the the configuration is actually as intended and has not
 been altered.
 
 One of the simple and powerful command line tools that I use is "sed," the
-stream editor.  I urge you to read the <a
-href="http://www.gnu.org/software/sed/manual/sed.txt" target="_blank">man
-page</a> and get to know it well.
+stream editor.  I urge you to read the
+[man page](http://www.gnu.org/software/sed/manual/sed.txt)
+and get to know it well.
 
 In the rest of this post, I will be demonstrating how to use sed to edit the
 `/etc/ssh/sshd_config` file.  Let's say that you want to make sure the the file

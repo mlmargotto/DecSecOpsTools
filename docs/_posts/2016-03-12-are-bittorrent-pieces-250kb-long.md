@@ -10,18 +10,18 @@ comments: false
 category: blog
 ---
 
-I was researching BitTorrent and noticed in the <a
-href="http://www.bittorrent.org/beps/bep_0003.html" target="_blank"
-rel="noreferrer noopener">Specification</a> that it said that the typical
+I was researching BitTorrent and noticed in the
+[Specification](http://www.bittorrent.org/beps/bep_0003.html)
+that it said that the typical
 length of a Piece was 250 kilobytes long.  That made me curious so I decided to
 perform some quick research to determine the extent of variation.
 
-First, I modified the <a href="https://github.com/Resistor52/bittorrent-parser"
-target="_blank" rel="noreferrer noopener">BitTorrent Parser</a> that I had
-created previously to append data to a “statistics.csv” file.  The <a
-href="https://github.com/Resistor52/bittorrent-parser/blob/master/getfiles.sh"
-target="_blank" rel="noreferrer noopener">getfiles.sh</a> script downloaded a
-279 files from <a href="http://www.legittorrents.com">www.legittorrents.com</a>
+First, I modified the
+[BitTorrent Parser](https://github.com/Resistor52/bittorrent-parser)
+that I had created previously to append data to a “statistics.csv” file.  The
+[getfiles.sh](https://github.com/Resistor52/bittorrent-parser/blob/master/getfiles.sh)
+script downloaded a 279 files from
+[www.legittorrents.com](http://www.legittorrents.com)
 of which 169 were unique.
 
 After pulling the [raw data](/media/statistics.csv) into MS Excel,

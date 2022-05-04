@@ -21,18 +21,18 @@ program, in the end I will have my CompTIA Security+, CompTIA Advanced Security
 Practitioner and Certified Ethical Hacker (CEH) certifications to add to my
 toolbox of skills._
 
-_ I have been in the consulting world for most of my IT career and am
+_I have been in the consulting world for most of my IT career and am
 looking for feedback on what the perceived value of these certifications are.
 If you are in a position to make a decision at your company would you be
 looking to hire a CEH to test your companies security?_
 
-_ I know there is a huge need for cyber security, I guess I'm wondering if
+_I know there is a huge need for cyber security, I guess I'm wondering if
 there are enough businesses willing to pay for it and what those businesses
 look like. Maybe cause I don't think I could sit at a desk at one company and
 do the job all day._
-_ Any and all thoughts are welcome. --Mike_
+_Any and all thoughts are welcome. --Mike_
 
-<hr>
+---
 
 Hey Mike,
 Great question and good responses on this topic. As a security guy with a bunch
@@ -85,8 +85,7 @@ technical aspects of security change rapidly (i.e. Beast, Shellshock,
 Heartbleed, Stagefright and on and on). On the other hand, it is always
 fascinating to me. While you are at it hit some regional security conferences
 such as Bsides and Derbycon. There is also a good meetup group in Madison, WI
-that you may like--<a
-href="http://www.meetup.com/Madison-Information-Security-Group/"
-target="_blank">MadSec.</a> Also check out the <a
-href="http://www.infosecrockstar.com" target="_blank">infosecrockstar.com</a>
+that you may like--
+[MadSec.](http://www.meetup.com/Madison-Information-Security-Group/)
+Also check out the [infosecrockstar.com](http://www.infosecrockstar.com)
 website by friend Ted Demopolous. This will give you lots more to think about.

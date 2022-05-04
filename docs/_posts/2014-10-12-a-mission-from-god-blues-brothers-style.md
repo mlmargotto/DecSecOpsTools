@@ -13,15 +13,12 @@ category: blog
 ---
 
 Yesterday, my friend Ted Demopoulos posted an article that I wrote for his
-site, <a href="http://infosecrockstar.com/" target="_blank" rel="noreferrer
-noopener">InfosecRockstar.com</a>.  It is called "<a
-href="http://infosecrockstar.com/a-mission-from-god-blues-brothers-style/"
-target="_blank" rel="noreferrer noopener">A Mission from God, Blues Brothers
-Style</a>."
+site, [InfosecRockstar.com](http://infosecrockstar.com/). It is called
+"[A Mission from God, Blues Brothers Style](http://infosecrockstar.com/a-mission-from-god-blues-brothers-style/)."
 
 Here is that article:
 
-<hr>
+---
 
 ## A Mission from God, Blues Brothers Style: Kenneth G. Hartman
 
@@ -61,7 +58,7 @@ letter in his pocket in case someone had an issue with his efforts at slashing
 company red tape.  I may have been a bit too dramatic, but I started telling
 people that my job was on the line over this ISO 27001 certification.
 
-![Blues Brothers: On a Mission from God!](/images/blues-300x163.jpg)
+![Blues Brothers: On a Mission from God!](https://kennethghartman.com/images/blues-300x163.jpg)
 
 ## Damn it…we are going to be like the Blues Brothers…We are on a mission
 from God!
