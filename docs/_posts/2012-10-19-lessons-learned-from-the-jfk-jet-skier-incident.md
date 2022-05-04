@@ -31,19 +31,19 @@ The general approach to Incident Handling holds that there are six phases.
 These are:
 
 * **Preparation**--Steps taken in advance to reduce the impact of an incident,
-in the event that it occurs.  
+in the event that it occurs.
 * **Identification**--Detection that an incident has occurred to trigger an
 incident response.  The goal being detection as early as possible to reduce the
-impact.  
+impact.
 * **Containment**--Steps taken reduce the spread of the security breach.  For
 instance to keep malware from spreading to other systems than haven't been
 infected or to prevent a physical intruder from breaching deeper into sensitive
 systems.
 Eradication--Cleaning up and removing the artifacts left by the attacker.
 Recovery--Returning systems to a state of normal or a new normal, as the case
-may be.  
+may be.
 * **Lessons Learned**--Determining what went wrong and improving operations to
-prevent it from happening again.  
+prevent it from happening again.
 
 These phases do not always apply in all situations and obviously a malware
 outbreak is handled differently than a physical security breach.  During the
