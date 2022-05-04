@@ -44,7 +44,7 @@ python file_entropy.py [filename]
 
 This shown below with the output:
 
-![Use of file_entropy.py](/images/Use-of-file_entropy.py_.png)
+![Use of file_entropy.py](https://kennethghartman.com/images/Use-of-file_entropy.py_.png)
 
 The closer the entropy value is to 8.0, the higher the entropy.  It is often
 fun and useful to look at the frequency distribution of the bytes that comprise
@@ -147,9 +147,9 @@ python graph_file_entropy.py [filename]
 I have illustrated this in the screenshots below, along with the results and a
 bar chart.
 
-![Use of graph_file_entropy.py](/images/Use-of-graph_file_entropy.py_.png)
+![Use of graph_file_entropy.py](https://kennethghartman.com/images/Use-of-graph_file_entropy.py_.png)
 
-![Example Output](/images/TestDoc.TXT-1024x464.png)
+![Example Output](https://kennethghartman.com/images/TestDoc.TXT-1024x464.png)
 
 In the [next posting](/blog/shannon-entropy-of-various-file-formats/), we will
 look at the use of this tool to examine various types of file formats.
