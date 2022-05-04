@@ -10,7 +10,7 @@ category: blog
 
 NOTE: This is cross-posted from the HIMSS Blog at [http://blog.himss.org/2012/06/07/psst-what-does-trust-have-to-do-with-it/](http://blog.himss.org/2012/06/07/psst-what-does-trust-have-to-do-with-it/)
 
-* * *
+---
 
 _Here is latest installment from the HIMSS Privacy and Security
 Committee…called **PSST!**. Keep reading to learn more about the column and
