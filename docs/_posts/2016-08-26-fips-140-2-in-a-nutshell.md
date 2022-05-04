@@ -10,10 +10,9 @@ category: blog
 
 The US Federal Government requires that its agencies protect sensitive, but
 unclassified information using cryptographic modules that have been validated
-to <a
-href="http://csrc.nist.gov/publications/fips/fips140-2/fips1402.pdf">Federal
-Information Processing (FIPS) Standard 140-2 “Security Requirements for
-Cryptographic Modules.</a>”  This standard replaced its predecessor, FIPS
+to
+[Federal Information Processing (FIPS) Standard 140-2 “Security Requirements for Cryptographic Modules.“](http://csrc.nist.gov/publications/fips/fips140-2/fips1402.pdf) 
+This standard replaced its predecessor, FIPS
 140-1.  In this context, the term “validated” means tested by accredited
 testing organizations to demonstrate that the module itself provides a specific
 level of security assurance.
@@ -58,9 +57,8 @@ physical boundary of the security module.  In addition, the operating system
 must meet the specified Common Criteria Protection Profiles listed in the
 Standard’s Annex B.  As a result of these requirements the security module
 must take on a specific form factor and is listed as a specific product on the
-<a
-href="http://csrc.nist.gov/groups/STM/cmvp/documents/140-1/1401vend.htm">list</a
-> maintained by NIST.  Security Level 2 also requires role-based authentication.
+[list](http://csrc.nist.gov/groups/STM/cmvp/documents/140-1/1401vend.htm)
+maintained by NIST.  Security Level 2 also requires role-based authentication.
 
 * **Security Level 3** – Attempts to thwart an attacker from obtaining the
 plaintext secrets (called “critical security parameters” by the standard)

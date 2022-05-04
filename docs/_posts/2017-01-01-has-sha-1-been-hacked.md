@@ -31,14 +31,14 @@ force attack” and is a well-known technique.
 The strength of the hashing function is based on how much work a computer must
 do to find a collision.  Therein lies the problem—computers are getting
 faster and faster.  Bruce Schneier is a well-known cryptographer, speaker, and
-blogger.  He wrote a <a
-href="https://www.schneier.com/blog/archives/2012/10/when_will_we_se.html">post<
-/a> estimating the cost of creating a single bogus web server certificate that
+blogger.  He wrote a
+[post](https://www.schneier.com/blog/archives/2012/10/when_will_we_se.html)
+estimating the cost of creating a single bogus web server certificate that
 is signed with the same SHA-1 digest at $700,000 but predicted the cost to drop
-to $43,000 by 2021 due to Moore’s Law. A <a
-href="https://eprint.iacr.org/2015/967.pdf">2016 paper</a> concludes that the
-attack might be able to be performed in a few months using rented Amazon EC2
-resources for $75,000 to $120,000.
+to $43,000 by 2021 due to Moore’s Law. A
+[2016 paper]("https://eprint.iacr.org/2015/967.pdf")
+concludes that the attack might be able to be performed in a few months using
+rented Amazon EC2 resources for $75,000 to $120,000.
 
 To summarize, SHA-1 has not been hacked, it is just simply not strong enough
 with today's computing power.

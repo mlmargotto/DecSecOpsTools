@@ -9,10 +9,9 @@ comments: false
 category: blog
 ---
 
-
-Several years ago, I created a <a
-href="/blog/powershell-script-to-log-network-connections/">PowerShell
-script</a> to create a log of outbound connections.  What if you need something
+Several years ago, I created a
+ [PowerShell script]("/blog/powershell-script-to-log-network-connections/")
+to create a log of outbound connections.  What if you need something
 quick and dirty and cannot use a script like that or external tools like
 Process Explorer, etc?
 

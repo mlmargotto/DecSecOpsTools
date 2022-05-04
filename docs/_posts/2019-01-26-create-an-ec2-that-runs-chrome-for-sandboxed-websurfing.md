@@ -19,7 +19,7 @@ account, it is easy to create one, just browse to
 [https://aws.amazon.com/](https://aws.amazon.com/) and select "Create an AWS
 Account.")
 
-Launch an <strong>Amazon Linux 2</strong> EC2 Instance and SSH to it, then run:
+Launch an **Amazon Linux 2** EC2 Instance and SSH to it, then run:
 
 ```
 sudo yum update -y
@@ -43,6 +43,6 @@ There you go, easy peasy. Of course you can install any other browser of
 graphical software as well.
 
 NOTE: If you need to RDP to the instance instead of using an X-windows client,
-launch an Ubuntu EC2 instance and run this <a
-href="https://gist.github.com/Resistor52/726eec699aa06f59b5ed292b376e1888">scrip
-t</a> as root.
+launch an Ubuntu EC2 instance and run this
+ [script](https://gist.github.com/Resistor52/726eec699aa06f59b5ed292b376e1888)
+ as root.
