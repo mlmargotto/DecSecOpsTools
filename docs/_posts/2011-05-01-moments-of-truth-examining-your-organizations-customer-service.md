@@ -33,21 +33,9 @@ inspires, great customer service. As your team focuses on how to improve
 customer service, you will find a corresponding improvement in the quality of
 your service.
 
-In addition to the book _Moments of Truth, _the folks at 
-[QBQ, Inc.](http://www.qbq.com/) have great resources to help foster the 
+In addition to the book _Moments of Truth, _the folks at
+[QBQ, Inc.](http://www.qbq.com/) have great resources to help foster the
 culture of personal responsibility that engenders excellent service and
 quality. Also, here's [an article](/dead-link/) that has some great ideas on
 how to apply the Moments of Truth concept in a health care environment.
 
-* * *
-
-**Moments of Truth - Examining Your Organization's Customer Service** was published on May 01, 2011 and last modified on May 01, 2011.
-
-#### More Posts:
-
-[InfosecConsultCon](https://kennethghartman.com/blog/InfosecConsultCon/ "InfosecConsultCon")  
-[Interactively Exploring NTFS Timestamps](https://kennethghartman.com/blog/interactively-exploring-ntfs-timestamps/ "Interactively Exploring NTFS Timestamps")  
-[Create an EC2 that Runs Chrome for Sandboxed Web Surfing](https://kennethghartman.com/blog/create-an-ec2-that-runs-chrome-for-sandboxed-websurfing/ "Create an EC2 that Runs Chrome for Sandboxed Web Surfing")  
-[**View all posts**](https://kennethghartman.com/blog/)
-
-* * *
