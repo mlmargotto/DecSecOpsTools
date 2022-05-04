@@ -36,16 +36,16 @@ interviewee mimicked the interviewer and in some they did not.  As a
 result of this study, they concluded that:
 
 _“It is not merely interacting with negatively perceived people that has a
-social cost; you pay a price for aligning with them through body language.”
-_( [3](http://www.sciencedaily.com/releases/2011/07/110728103139.htm) )
+social cost; you pay a price for aligning with them through body language.”_
+( [3](http://www.sciencedaily.com/releases/2011/07/110728103139.htm) )
 
 ## Personal Branding Defined
 
-Kaplan Mobray, in his book _The 10Ks of Personal Branding _defines
+Kaplan Mobray, in his book _The 10Ks of Personal Branding_ defines
 personal branding as:
 
 _The ability to deliberately use attributes that demonstrate your capability
-to manage the expectations one will receive from an encounter with you. _[4]
+to manage the expectations one will receive from an encounter with you._[4]
 
 If you contrast the lessons learned from Winkielman’s study on mirroring with
 Mobray’s definition of branding, it becomes quite clear that the proactive
