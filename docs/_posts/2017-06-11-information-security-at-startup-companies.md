@@ -9,8 +9,8 @@ comments: false
 category: blog
 ---
 
-**\_The following excerpt is a thread from a discussion on Linkedin in
-the Information Security Community group.\_**
+**_The following excerpt is a thread from a discussion on Linkedin in
+the Information Security Community group._**
 
 ## Question:
 
