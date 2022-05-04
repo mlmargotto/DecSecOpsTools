@@ -38,11 +38,12 @@ maturity above and beyond software development.
 
 Some good examples of this include:
 
-* [Organizational Project Management Maturity Model](https://en.wikipedia.org/wiki/OPM3) (OPM3),  
+* [Organizational Project Management Maturity Model](https://en.wikipedia.org/wiki/OPM3)
+(OPM3),
 * [The Open Group Service Integration Maturity Model](https://www2.opengroup.org/ogsys/jsp/publications/PublicationDetails.jsp?publicationid=12450)
-(OSIMM), and  
+(OSIMM), and
 * [The Building Security In Maturity Model](https://bsimm.com/)
-(BSIMM4)  
+(BSIMM4)
 
 Despite its legacy as one of seminal frameworks for understanding process
 capability, many folks do not understand the high level concepts of the CMM. 
@@ -62,15 +63,15 @@ There are five levels in the CMM.  I use the acronym “IRDMO” to remember
 them, in order.  These are:
 
 * **Initial** – Few processes are defined and success depends on individual
-effort and heroics  
+effort and heroics
 * **Repeatable** – Basic processes are in place with enough discipline to
-repeat earlier successes  
+repeat earlier successes
 * **Defined** – The  processes are documented, standardized, and integrated
-across the organization  
+across the organization
 * **Managed** – Quantitative measures are used to understand the process and
-product quality  
+product quality
 * **Optimizing** — Innovative continuous improvement is enabled by
-quantitative feedback  
+quantitative feedback
 
 ![The SEI CMM](/images/CMM.png)
 **The 5 Levels of the Capability Maturity Model**
