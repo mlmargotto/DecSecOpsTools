@@ -15,7 +15,7 @@ remind me that every impressive work of architecture goes through a maturation
 process.  I printed the picture to bring to my start-up company’s first
 annual holiday party.
 
-![Skyscraper under construction](/images/Skyscraper-under-construction.jpg)
+![Skyscraper under construction](../images/Skyscraper-under-construction.jpg)
 **All man-made things of beauty go through a construction phase.**
 
 The purpose of the picture was to make a point that architects do not get
