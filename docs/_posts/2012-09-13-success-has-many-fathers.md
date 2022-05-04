@@ -51,6 +51,7 @@ Where did I get such a counter-intuitive notion?  My virtual mentors of course.
 the years.   Godin wants people to steal his ideas and make them their own.
 And it’s working toward his success; people can’t get enough of his books.
 
-And Doc Searls, with his [Ten Ideas about Ideas](http://www.linuxjournal.com/content/ten-ideas-about-ideas) blog post. He makes the point that “Ideas won’t change the
+And Doc Searls, with his [Ten Ideas about Ideas](http://www.linuxjournal.com/content/ten-ideas-about-ideas)
+blog post. He makes the point that “Ideas won’t change the
 world unless others can improve on them.” Hmm, it’s no wonder that success
 has many fathers.
