@@ -17,7 +17,7 @@ assessment of Skype Security Risks and an assessment methodology.**_
 ## Question:
 
 * _Anybody using Skype yet at an enterprise level? If so, what changed your
-mind about the "vulnerabilities" claimed to be associated with it?
+mind about the "vulnerabilities" claimed to be associated with it?_
 * _Is Skype secure for business?_
 * _Is Skype Safe?_
 
