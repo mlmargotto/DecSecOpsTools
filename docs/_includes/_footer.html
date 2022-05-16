@@ -19,6 +19,9 @@
 <br /></span>
 {% else  %}
 <!-- <span>&copy; {{ site.time | date: '%Y' }} {{ site.owner.name }}.<br /></span> -->
-{% assign year: 1 %}
-<span>&copy; {{ site.time | date: '%Y' | plus: year }} {{ site.owner.name }}.<br /></span>
+{% 
+assign year = 'now' | date '%Y'
+assign next_year = year | plus: 1
+%}
+<span>&copy; {{ next_year }} {{ site.owner.name }}.<br /></span>
 {% endif %}
