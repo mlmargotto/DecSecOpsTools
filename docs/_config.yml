@@ -10,7 +10,7 @@ owner:
   avatar: Ken-2021.jpg
   bio: "Security Consultant &amp;&nbsp;</br>Certified SANS Instructor"
   email: kgh@kennethghartman.com
-  baseurl: "DecSecOpsTools/docs"
+  baseurl: "DecSecOpsTools"
   # Do not include the @ symbol in your Twitter username
   twitter: kennethghartman
   linkedin: #kennethghartman
