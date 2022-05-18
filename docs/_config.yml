@@ -5,7 +5,6 @@ locale: en_US
 logo: # filename of a logo image that has been placed into your images directory
 
 # Enter the following platform usernames if you would like for them to appear on your site.
-source: https://github.com/mlmargotto/DecSecOpsTools/docs
 owner:
   name: Kenneth G. Hartman
   avatar: Ken-2021.jpg
